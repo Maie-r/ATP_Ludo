@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\projects\code\visual studio\LudoGame\LudoGame\bin\Debug\LudoGame.exe.config
+C:\Users\user\Desktop\projects\code\visual studio\LudoGame\LudoGame\bin\Debug\LudoGame.exe
+C:\Users\user\Desktop\projects\code\visual studio\LudoGame\LudoGame\bin\Debug\LudoGame.pdb
+C:\Users\user\Desktop\projects\code\visual studio\LudoGame\LudoGame\obj\Debug\LudoGame.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\projects\code\visual studio\LudoGame\LudoGame\obj\Debug\LudoGame.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\projects\code\visual studio\LudoGame\LudoGame\obj\Debug\LudoGame.exe
+C:\Users\user\Desktop\projects\code\visual studio\LudoGame\LudoGame\obj\Debug\LudoGame.pdb
