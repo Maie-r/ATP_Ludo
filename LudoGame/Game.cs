@@ -1,7 +1,9 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace LudoGame
@@ -32,20 +34,34 @@ namespace LudoGame
         static void StartGame(int playercount, string debug)
         {
             Board board = new Board(playercount, debug);
+            LogWriter log = new LogWriter("matchlog.txt");
             bool gameon = true;
+            int roundcounter = 1;
+            int winner = -1;
             while (gameon) // para o jogo inteiro
             {
-                for (int i = 0; i < playercount; i++) // para cada round
+                for (int i = 0; i < playercount && gameon; i++) // para cada round
                 {
-                    PlayRound(i, board);
+                    log.OnlyWriteLine("--- Jogada " + roundcounter + "---");
+                    winner = PlayRound(i, board, log);
+                    if (winner >= 0)
+                    {
+                        gameon = false;
+                    }
+                    roundcounter++;
                 }
             }
+            Console.Clear();
+            log.WriteLine("Fim de jogo!!");
+            log.WriteLine($"\nO vencedor é... Jogador {winner + 1}! Bom jogo!");
+            Console.ReadLine();
         }
 
-        static void PlayRound(int player, Board board)
+        static int PlayRound(int player, Board board, LogWriter log)
         {
             Console.Clear();
             bool reroll = false;
+            string dicetext = $"O jogador {player + 1} lança o dado!";
             do
             {
                 Random r = new Random();
@@ -56,12 +72,12 @@ namespace LudoGame
                 }
                 int count = 0;
                 bool stay = true;
-                Console.WriteLine($"O jogador {player + 1} lança o dado!");
+                log.WriteLine(dicetext);
                 while (stay)
                 {
                     if (dice[count] != 0)
                     {
-                        Console.WriteLine("Resultado: " + dice[count]);
+                        log.WriteLine("Resultado: " + dice[count]);
                     }
                     if (dice[count] == 6 && count < 3)
                     {
@@ -74,32 +90,37 @@ namespace LudoGame
                 }
                 if (count >= 3)
                 {
-                    Console.WriteLine("Passou a vez!");
+                    log.WriteLine("Passou a vez!");
                 }
                 else
                 {
                     for (int i = 0; i <= count; i++)
                     {
-                        if (PawnChoices(board, player, dice[i]))
+                        if (PawnChoices(board, player, dice[i], log) || PawnWon(board, player, log))
                         {
                             reroll = true;
-                            Console.WriteLine($"O jogador {player + 1} ganha outro dado!");
+                            dicetext = $"O jogador {player + 1} ganha outro dado!";
                         }
                         else
                         {
                             reroll = false;
                         }
+                        if (GameOver(board) >= 0)
+                        {
+                            return player;
+                        }
                     }
                 }
             } while (reroll);
-            Console.WriteLine("Fim da jogada!");
+            log.WriteLine("Fim da jogada!\n");
             Console.ReadLine();
             Console.Clear();
+            return -1;
         }
 
-        static bool PawnChoices(Board board, int player, int dice)
+        static bool PawnChoices(Board board, int player, int dice, LogWriter log)
         {
-            int temppawn;
+            int temppawn = -1;
             int[] valid = new int[4];
             if (dice >= 6)
             {
@@ -116,29 +137,29 @@ namespace LudoGame
                 }
                 else
                 {
-                    Console.Write($"Mover qual peão com o dado {dice}? ");
+                    log.Write($"Mover qual peão com o dado {dice}? ");
                     foreach (int i in valid)
                     {
                         if (i != 0)
                         {
-                            Console.Write($"({i}) ");
+                            log.Write($"({i}) ");
                         }
                     }
-                    Console.WriteLine();
-                    do
+                    log.WriteLine("");
+                    while ((temppawn != valid[0] && temppawn != valid[1] && temppawn != valid[2] && temppawn != valid[3]) || temppawn <= 0 || temppawn >= 5)
                     {
                         try
                         {
                             temppawn = int.Parse(Console.ReadLine());
+                            log.OnlyWriteLine(temppawn.ToString());
                         }
                         catch
                         {
-                            Console.WriteLine("Digite o numero do peão");
-                            temppawn = int.Parse(Console.ReadLine());
+                            log.WriteLine("Digite o numero do peão");
                         }
-                    } while ((temppawn != valid[0] && temppawn != valid[1] && temppawn != valid[2] && temppawn != valid[3]) || temppawn <= 0 || temppawn >= 5) ;
+                    }
                 }
-                if (board.pawns[(temppawn-1), player].pos >= 0)
+                if (board.pawns[(temppawn-1), player].pos <= 0)
                 {
                     dice -= 5;
                 }
@@ -159,35 +180,106 @@ namespace LudoGame
                 }
                 else
                 {
-                    Console.Write($"Mover qual peão com o dado {dice}? ");
+                    log.Write($"Mover qual peão com o dado {dice}? ");
                     foreach (int i in valid)
                     {
                         if (i != 0)
                         {
-                            Console.Write($"({i}) ");
+                            log.Write($"({i}) ");
                         }
                     }
-                    Console.WriteLine();
-                    do
+                    log.WriteLine("");
+                    while ((temppawn != valid[0] && temppawn != valid[1] && temppawn != valid[2] && temppawn != valid[3]) || temppawn <= 0 || temppawn >= 5)
                     {
                         try
                         {
                             temppawn = int.Parse(Console.ReadLine());
+                            log.OnlyWriteLine(temppawn.ToString());
                         }
                         catch
                         {
-                            Console.WriteLine("Digite o numero do peão");
-                            temppawn = int.Parse(Console.ReadLine());
+                            log.WriteLine("Digite o numero do peão");
                         }
-                    } while ((temppawn != valid[0] && temppawn != valid[1] && temppawn != valid[2] && temppawn != valid[3]) || temppawn <= 0 || temppawn >= 5);
+                    } 
                 }
             }
             board.MovePawn(board.pawns[(temppawn - 1), player], dice);
-            if (board.PieceEaten(temppawn, player))
+            if (board.PieceEaten(temppawn, player, log))
             {
                 return true;
             }
             return false;
         }
+
+        static bool PawnWon(Board board, int player, LogWriter log)
+        {
+            for (int i = 0; i < board.pawns.GetLength(0); i++)
+            {
+                if (board.pawns[i, player].pos == 57)
+                {
+                    log.WriteLine($"O peão {i + 1} chegou ao final!");
+                    board.MovePawn(board.pawns[i, player], 1);
+                    return true;
+                }
+            }
+            return false;
+        }
+
+        static int GameOver(Board board)
+        {
+            for (int i = 0; i < board.pawns.GetLength(1); i++)
+            {
+                int count = 0;
+                for (int j = 0; j < board.pawns.GetLength(0); j++)
+                {
+                    if (board.pawns[j, i].pos == 58)
+                    {
+                        count++;
+                    }
+                }
+                if (count >= 4)
+                {
+                    return i;
+                }
+            }
+            return -1;
+        }
+    }
+
+    class LogWriter
+    {
+        string path;
+        StreamWriter writer;
+
+        public LogWriter(string path)
+        {
+            this.path = path;
+            writer = new StreamWriter(path, false);
+            writer.Write("");
+            writer.Close();
+        }
+
+        public void WriteLine(string text)
+        {
+            writer = new StreamWriter(path, true);
+            writer.WriteLine(text);
+            Console.WriteLine(text);
+            writer.Close();
+        }
+
+        public void Write(string text)
+        {
+            writer = new StreamWriter(path, true);
+            writer.Write(text);
+            Console.Write(text);
+            writer.Close();
+        }
+        public void OnlyWriteLine(string text)
+        {
+            writer = new StreamWriter(path, true);
+            writer.WriteLine(text);
+            writer.Close();
+        }
+
     }
 }
