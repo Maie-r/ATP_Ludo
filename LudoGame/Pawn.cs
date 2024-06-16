@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,7 +11,7 @@ namespace LudoGame
         public int team, id;
         public int pos = 0;
 
-        public Pawn (int team, int id)
+        public Pawn (int id, int team)
         {
             this.team = team;
             this.id = id;
