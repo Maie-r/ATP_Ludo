@@ -99,9 +99,9 @@ namespace LudoGame
             {
                 for (int j = 0; j < pawns.GetLength(0); j++)
                 {
-                    if (pos <= 1 || pos == 9 || pos == 14 || pos == 22 || pos == 27 || pos == 35 || pos == 40 || pos == 48 || pos >= 53)
+                    if (pos <= 1 + offsets[i] || pos == 9 || pos == 14 || pos == 22 || pos == 27 || pos == 35 || pos == 40 || pos == 48 || pos >= 53)
                     {
-                        Console.WriteLine("Protegido!");
+                        Console.WriteLine("Protegido!"); //
                         return false;
                     }
                     else
