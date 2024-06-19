@@ -18,24 +18,33 @@ namespace LudoGame
                     pawns[j, i] = new Pawn(j, i);
                 }
             }
-            if (debug == "debug") //
+            if (debug == "fast")
+            {
+                for(int i = 0;i < pawns.GetLength(1); i++)
+                {
+                    pawns[0, i].Move(1);
+                }
+            }
+            else if (debug == "debug") //
             {
                 // set up for capture
-                pawns[0, 0].Move(32);
-                pawns[1, 0].Move(33);
-                pawns[2, 0].Move(34);
-                pawns[3, 0].Move(35);
-                pawns[0, 1].Move(13);
-                pawns[1, 1].Move(13);
-                pawns[2, 1].Move(14);
-                pawns[3, 1].Move(14);
-                pawns[2, 3].Move(49);
-            }
-        }
-
-        public void MovePawn(Pawn pawn, int amount)
-        {
-            pawn.Move(amount);
+                pawns[0, 0].Move(20);
+                pawns[1, 0].Move(19);
+                pawns[2, 0].Move(18);
+                pawns[3, 0].Move(17);
+                pawns[0, 1].Move(0);
+                pawns[1, 1].Move(2);
+                pawns[2, 1].Move(51);
+                pawns[3, 1].Move(52);
+                pawns[0, 2].Move(8);
+                pawns[1, 2].Move(9);
+                pawns[2, 2].Move(10);
+                pawns[3, 2].Move(13);
+                pawns[0, 3].Move(41);
+                pawns[1, 3].Move(39);
+                pawns[2, 3].Move(39);
+                pawns[3, 3].Move(39);
+            } 
         }
 
         public void BoardStatus(LogWriter log)
@@ -44,10 +53,12 @@ namespace LudoGame
             {
                 for (int j = 0; j < pawns.GetLength(1); j++)
                 {
+                    Game.MakePlayerColor(j);
                     log.Write(pawns[i, j].pos + " ");
                 }
                 log.WriteLine("");
             }
+            Console.ForegroundColor = ConsoleColor.White;
         }
 
         public bool PieceEaten(int lastmoved, int player, LogWriter log)
@@ -96,42 +107,53 @@ namespace LudoGame
             {
                 failsafe++;
             }
-            for (int i = 0 + failsafe; i < pawns.GetLength(1); i++)
+            if (pos <= 1 || pos == 9 || pos == 14 || pos == 22 || pos == 27 || pos == 35 || pos == 40 || pos == 48 || pos >= 52) 
             {
-                for (int j = 0; j < pawns.GetLength(0); j++)
+
+            }
+            else
+            {
+                for (int i = 0 + failsafe; i < pawns.GetLength(1); i++)
                 {
-                    if(pos == offsets[i] || pos <= 1  || pos == 9 || pos == 14 || pos == 22 || pos == 27 || pos == 35 || pos == 40 || pos == 48 || pos >= 52)
+                    for (int j = 0; j < pawns.GetLength(0); j++)
                     {
-                        Console.WriteLine("Protegido!"); //
-                        return false;
-                    }
-                    else
-                    {
-                        Console.WriteLine(i); //
-                        if (pos > pawns[j, i].pos)
+                        if (pawns[j, i].pos >= 52 || pawns[j, i].pos <= 1)
                         {
-                            if (pos == (pawns[j, i].pos + offsets[i]))
-                            {
-                                log.WriteLine($"Comeu o peão {pawns[j, i].id + 1} do jogador {pawns[j, i].team + 1}!");
-                                pawns[j, i].Return();
-                                result = true;
-                            }
+
                         }
                         else
                         {
-                            if ((pos + offsets[i + 4]) == pawns[j, i].pos)
+                            if (pos > pawns[j, i].pos)
                             {
-                                log.WriteLine($"Comeu o peão {pawns[j, i].id + 1} do jogador {pawns[j, i].team + 1}!");
-                                pawns[j, i].Return();
-                                result = true;
+                                if (pos == (pawns[j, i].pos + offsets[i]))
+                                {
+                                    log.Write($"Comeu o peão {pawns[j, i].id + 1} do ");
+                                    Game.MakePlayerColor(i);
+                                    log.WriteLine($"jogador {pawns[j, i].team + 1}!");
+                                    Console.ForegroundColor = ConsoleColor.White;
+                                    pawns[j, i].Return();
+                                    result = true;
+                                }
                             }
+                            else
+                            {
+                                if ((pos + offsets[i + 4]) == pawns[j, i].pos)
+                                {
+                                    log.Write($"Comeu o peão {pawns[j, i].id + 1} do ");
+                                    Game.MakePlayerColor(i);
+                                    log.WriteLine($"jogador {pawns[j, i].team + 1}!");
+                                    Console.ForegroundColor = ConsoleColor.White;
+                                    pawns[j, i].Return();
+                                    result = true;
+                                }
+                            }
+
                         }
-                        
                     }
-                }
-                if ((i + 1) == player)
-                {
-                    i++;
+                    if ((i + 1) == player)
+                    {
+                        i++;
+                    }
                 }
             }
             return result;
