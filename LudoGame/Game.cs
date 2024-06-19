@@ -27,6 +27,12 @@ namespace LudoGame
 
                 }
             }
+            for (int i = 0; i < playercount; i++)
+            {
+                MakePlayerColor(i);
+                Console.WriteLine($"Jogador {i + 1}");
+            }
+            Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine("\nEnter para começar!");
             string debug = Console.ReadLine();
             StartGame(playercount, debug);
@@ -53,7 +59,11 @@ namespace LudoGame
             }
             Console.Clear();
             log.WriteLine("Fim de jogo!!");
-            log.WriteLine($"\nO vencedor é... Jogador {winner + 1}! Bom jogo!");
+            log.Write($"\nO vencedor é... ");
+            MakePlayerColor(winner);
+            log.Write($"Jogador {winner + 1}");
+            Console.ForegroundColor = ConsoleColor.White;
+            log.WriteLine("! Bom jogo!");
             Console.ReadLine();
         }
 
@@ -61,9 +71,13 @@ namespace LudoGame
         {
             Console.Clear();
             bool reroll = false;
-            string dicetext = $"O jogador {player + 1} lança o dado!";
+            string[] dicetext = { $"O ", $"jogador {player + 1} ", "lança o dado!"};
             do
             {
+                if (reroll)
+                {
+                    reroll = false;
+                }
                 Random r = new Random();
                 int[] dice = new int[4];
                 for (int i = 0; i < 3; i++)
@@ -72,12 +86,26 @@ namespace LudoGame
                 }
                 int count = 0;
                 bool stay = true;
-                log.WriteLine(dicetext);
+                for (int i =0; i < dicetext.Length; i++)
+                {
+                    if (i == 1)
+                    {
+                        MakePlayerColor(player);
+                    }
+                    log.Write(dicetext[i]);
+                    Console.ForegroundColor = ConsoleColor.White;
+                }
+                log.WriteLine("");
                 while (stay)
                 {
                     if (dice[count] != 0)
                     {
-                        log.WriteLine("Resultado: " + dice[count]);
+                        log.Write("Resultado: ");
+                        Console.BackgroundColor = ConsoleColor.White;
+                        Console.ForegroundColor = ConsoleColor.Black;
+                        log.WriteLine(" " +dice[count].ToString() + " ");
+                        Console.BackgroundColor = ConsoleColor.Black;
+                        Console.ForegroundColor = ConsoleColor.White;
                     }
                     if (dice[count] == 6 && count < 3)
                     {
@@ -99,11 +127,8 @@ namespace LudoGame
                         if (PawnChoices(board, player, dice[i], log) || PawnWon(board, player, log))
                         {
                             reroll = true;
-                            dicetext = $"O jogador {player + 1} ganha outro dado!";
-                        }
-                        else
-                        {
-                            reroll = false;
+                            dicetext[2] = "ganha outro dado!";
+                            
                         }
                         if (GameOver(board) >= 0)
                         {
@@ -203,7 +228,7 @@ namespace LudoGame
                     } 
                 }
             }
-            board.MovePawn(board.pawns[(temppawn - 1), player], dice);
+            board.pawns[temppawn - 1, player].Move(dice);
             if (board.PieceEaten(temppawn, player, log))
             {
                 return true;
@@ -218,7 +243,7 @@ namespace LudoGame
                 if (board.pawns[i, player].pos == 57)
                 {
                     log.WriteLine($"O peão {i + 1} chegou ao final!");
-                    board.MovePawn(board.pawns[i, player], 1);
+                    board.pawns[i, player].Move(1);
                     return true;
                 }
             }
@@ -243,6 +268,46 @@ namespace LudoGame
                 }
             }
             return -1;
+        }
+
+        public static void MakePlayerColor(int player)
+        {
+            switch (player)
+            {
+                case 0:
+                    Console.ForegroundColor = ConsoleColor.Red;
+                    break;
+                case 1:
+                    Console.ForegroundColor = ConsoleColor.Yellow;
+                    break;
+                case 2:
+                    Console.ForegroundColor = ConsoleColor.Green;
+                    break;
+                case 3:
+                    Console.ForegroundColor = ConsoleColor.Blue;
+                    break;
+
+            }
+        }
+
+        public static void MakePlayerColorBackground(int player)
+        {
+            switch (player)
+            {
+                case 0:
+                    Console.BackgroundColor = ConsoleColor.DarkRed;
+                    break;
+                case 1:
+                    Console.BackgroundColor = ConsoleColor.DarkYellow;
+                    break;
+                case 2:
+                    Console.BackgroundColor = ConsoleColor.DarkGreen;
+                    break;
+                case 3:
+                    Console.BackgroundColor = ConsoleColor.DarkBlue;
+                    break;
+
+            }
         }
     }
 
