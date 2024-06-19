@@ -21,14 +21,15 @@ namespace LudoGame
             if (debug == "debug") //
             {
                 // set up for capture
-                pawns[0, 0].Move(9);
-                pawns[1, 0].Move(8);
-                pawns[2, 0].Move(7);
-                pawns[3, 0].Move(6);
-                pawns[0, 1].Move(36);
-                pawns[1, 1].Move(36);
-                pawns[2, 1].Move(35);
-                pawns[3, 1].Move(37);
+                pawns[0, 0].Move(32);
+                pawns[1, 0].Move(33);
+                pawns[2, 0].Move(34);
+                pawns[3, 0].Move(35);
+                pawns[0, 1].Move(13);
+                pawns[1, 1].Move(13);
+                pawns[2, 1].Move(14);
+                pawns[3, 1].Move(14);
+                pawns[2, 3].Move(49);
             }
         }
 
@@ -56,28 +57,28 @@ namespace LudoGame
             switch (player)
             {
                 case 0:
-                    int[] offsets1 = {0, 26, 13, 39, 0, -26, 39, 13};
+                    int[] offsets1 = {0, 26, 13, 39, 0, 26, 39, 13};
                     if (CheckOverlap(player, pos, offsets1, log))
                     {
                         return true;
                     }
                     break;
                 case 1:
-                    int[] offsets2 = { 26, 0, 39, 13, -26, 0, 13, 39};
+                    int[] offsets2 = { 26, 0, 39, 13, 26, 0, 13, 39};
                     if (CheckOverlap(player, pos, offsets2, log))
                     {
                         return true;
                     }
                     break;
                 case 2:
-                    int[] offsets3 = { 39, 13, 0, 26, 13, 39, 0, -26};
+                    int[] offsets3 = { 39, 13, 0, 26, 13, 39, 0, 26};
                     if (CheckOverlap(player, pos, offsets3, log))
                     {
                         return true;
                     }
                     break;
                 case 3:
-                    int[] offsets4 = { 13, 39, 26, 0, 39, 13, -26, 0};
+                    int[] offsets4 = { 13, 39, 26, 0, 39, 13, 26, 0};
                     if (CheckOverlap(player, pos, offsets4, log))
                     {
                         return true;
@@ -99,13 +100,14 @@ namespace LudoGame
             {
                 for (int j = 0; j < pawns.GetLength(0); j++)
                 {
-                    if (pos <= 1 + offsets[i] || pos == 9 || pos == 14 || pos == 22 || pos == 27 || pos == 35 || pos == 40 || pos == 48 || pos >= 53)
+                    if(pos == offsets[i] || pos <= 1  || pos == 9 || pos == 14 || pos == 22 || pos == 27 || pos == 35 || pos == 40 || pos == 48 || pos >= 52)
                     {
                         Console.WriteLine("Protegido!"); //
                         return false;
                     }
                     else
                     {
+                        Console.WriteLine(i); //
                         if (pos > pawns[j, i].pos)
                         {
                             if (pos == (pawns[j, i].pos + offsets[i]))
@@ -117,7 +119,7 @@ namespace LudoGame
                         }
                         else
                         {
-                            if (pos == (pawns[j, i].pos + offsets[i+4]))
+                            if ((pos + offsets[i + 4]) == pawns[j, i].pos)
                             {
                                 log.WriteLine($"Comeu o peão {pawns[j, i].id + 1} do jogador {pawns[j, i].team + 1}!");
                                 pawns[j, i].Return();
