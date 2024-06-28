@@ -1,0 +1,3607 @@
+// Rodadas com captura:
+// 75, 110, 125, 145, 148, 156, 161, 220, 240, 253, 266, 267, 284
+// Rodadas com peões ganhadores:
+// R61, G99, B168, R181, B224, R253, Y270, G303, R313
+--- Jogada 1---
+O jogador 1 lança o dado!
+Resultado:  6 
+Resultado:  5 
+Mover qual peão com o dado 6? (1) (2) (3) (4) 
+1
+1 0 0 0 
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+Mover qual peão com o dado 5? (1) 
+1
+6 0 0 0 
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+Fim da jogada!
+
+--- Jogada 2---
+O jogador 2 lança o dado!
+Resultado:  5 
+Fim da jogada!
+
+--- Jogada 3---
+O jogador 3 lança o dado!
+Resultado:  3 
+Fim da jogada!
+
+--- Jogada 4---
+O jogador 4 lança o dado!
+Resultado:  1 
+Fim da jogada!
+
+--- Jogada 5---
+O jogador 1 lança o dado!
+Resultado:  4 
+Mover qual peão com o dado 4? (1) 
+1
+10 0 0 0 
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+Fim da jogada!
+
+--- Jogada 6---
+O jogador 2 lança o dado!
+Resultado:  4 
+Fim da jogada!
+
+--- Jogada 7---
+O jogador 3 lança o dado!
+Resultado:  4 
+Fim da jogada!
+
+--- Jogada 8---
+O jogador 4 lança o dado!
+Resultado:  5 
+Fim da jogada!
+
+--- Jogada 9---
+O jogador 1 lança o dado!
+Resultado:  5 
+Mover qual peão com o dado 5? (1) 
+1
+15 0 0 0 
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+Fim da jogada!
+
+--- Jogada 10---
+O jogador 2 lança o dado!
+Resultado:  3 
+Fim da jogada!
+
+--- Jogada 11---
+O jogador 3 lança o dado!
+Resultado:  1 
+Fim da jogada!
+
+--- Jogada 12---
+O jogador 4 lança o dado!
+Resultado:  4 
+Fim da jogada!
+
+--- Jogada 13---
+O jogador 1 lança o dado!
+Resultado:  2 
+Mover qual peão com o dado 2? (1) 
+1
+17 0 0 0 
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+Fim da jogada!
+
+--- Jogada 14---
+O jogador 2 lança o dado!
+Resultado:  4 
+Fim da jogada!
+
+--- Jogada 15---
+O jogador 3 lança o dado!
+Resultado:  2 
+Fim da jogada!
+
+--- Jogada 16---
+O jogador 4 lança o dado!
+Resultado:  3 
+Fim da jogada!
+
+--- Jogada 17---
+O jogador 1 lança o dado!
+Resultado:  5 
+Mover qual peão com o dado 5? (1) 
+1
+22 0 0 0 
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+Fim da jogada!
+
+--- Jogada 18---
+O jogador 2 lança o dado!
+Resultado:  1 
+Fim da jogada!
+
+--- Jogada 19---
+O jogador 3 lança o dado!
+Resultado:  4 
+Fim da jogada!
+
+--- Jogada 20---
+O jogador 4 lança o dado!
+Resultado:  4 
+Fim da jogada!
+
+--- Jogada 21---
+O jogador 1 lança o dado!
+Resultado:  2 
+Mover qual peão com o dado 2? (1) 
+1
+24 0 0 0 
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+Fim da jogada!
+
+--- Jogada 22---
+O jogador 2 lança o dado!
+Resultado:  4 
+Fim da jogada!
+
+--- Jogada 23---
+O jogador 3 lança o dado!
+Resultado:  4 
+Fim da jogada!
+
+--- Jogada 24---
+O jogador 4 lança o dado!
+Resultado:  5 
+Fim da jogada!
+
+--- Jogada 25---
+O jogador 1 lança o dado!
+Resultado:  3 
+Mover qual peão com o dado 3? (1) 
+1
+27 0 0 0 
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+Fim da jogada!
+
+--- Jogada 26---
+O jogador 2 lança o dado!
+Resultado:  4 
+Fim da jogada!
+
+--- Jogada 27---
+O jogador 3 lança o dado!
+Resultado:  5 
+Fim da jogada!
+
+--- Jogada 28---
+O jogador 4 lança o dado!
+Resultado:  3 
+Fim da jogada!
+
+--- Jogada 29---
+O jogador 1 lança o dado!
+Resultado:  4 
+Mover qual peão com o dado 4? (1) 
+1
+31 0 0 0 
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+Fim da jogada!
+
+--- Jogada 30---
+O jogador 2 lança o dado!
+Resultado:  2 
+Fim da jogada!
+
+--- Jogada 31---
+O jogador 3 lança o dado!
+Resultado:  5 
+Fim da jogada!
+
+--- Jogada 32---
+O jogador 4 lança o dado!
+Resultado:  4 
+Fim da jogada!
+
+--- Jogada 33---
+O jogador 1 lança o dado!
+Resultado:  5 
+Mover qual peão com o dado 5? (1) 
+1
+36 0 0 0 
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+Fim da jogada!
+
+--- Jogada 34---
+O jogador 2 lança o dado!
+Resultado:  5 
+Fim da jogada!
+
+--- Jogada 35---
+O jogador 3 lança o dado!
+Resultado:  4 
+Fim da jogada!
+
+--- Jogada 36---
+O jogador 4 lança o dado!
+Resultado:  3 
+Fim da jogada!
+
+--- Jogada 37---
+O jogador 1 lança o dado!
+Resultado:  5 
+Mover qual peão com o dado 5? (1) 
+1
+41 0 0 0 
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+Fim da jogada!
+
+--- Jogada 38---
+O jogador 2 lança o dado!
+Resultado:  3 
+Fim da jogada!
+
+--- Jogada 39---
+O jogador 3 lança o dado!
+Resultado:  6 
+Resultado:  3 
+Mover qual peão com o dado 6? (1) (2) (3) (4) 
+2
+41 0 0 0 
+0 0 1 0 
+0 0 0 0 
+0 0 0 0 
+Mover qual peão com o dado 3? (2) 
+2
+41 0 0 0 
+0 0 4 0 
+0 0 0 0 
+0 0 0 0 
+Fim da jogada!
+
+--- Jogada 40---
+O jogador 4 lança o dado!
+Resultado:  5 
+Fim da jogada!
+
+--- Jogada 41---
+O jogador 1 lança o dado!
+Resultado:  2 
+Mover qual peão com o dado 2? (1) 
+Digite o numero do peão
+1
+43 0 0 0 
+0 0 4 0 
+0 0 0 0 
+0 0 0 0 
+Fim da jogada!
+
+--- Jogada 42---
+O jogador 2 lança o dado!
+Resultado:  2 
+Fim da jogada!
+
+--- Jogada 43---
+O jogador 3 lança o dado!
+Resultado:  6 
+Resultado:  6 
+Resultado:  1 
+Mover qual peão com o dado 6? (1) (2) (3) (4) 
+Digite o numero do peão
+3
+43 0 0 0 
+0 0 4 0 
+0 0 1 0 
+0 0 0 0 
+Mover qual peão com o dado 6? (1) (2) (3) (4) 
+4
+43 0 0 0 
+0 0 4 0 
+0 0 1 0 
+0 0 1 0 
+Mover qual peão com o dado 1? (2) (3) (4) 
+2
+43 0 0 0 
+0 0 5 0 
+0 0 1 0 
+0 0 1 0 
+Fim da jogada!
+
+--- Jogada 44---
+O jogador 4 lança o dado!
+Resultado:  3 
+Fim da jogada!
+
+--- Jogada 45---
+O jogador 1 lança o dado!
+Resultado:  2 
+Mover qual peão com o dado 2? (1) 
+Digite o numero do peão
+1
+45 0 0 0 
+0 0 5 0 
+0 0 1 0 
+0 0 1 0 
+Fim da jogada!
+
+--- Jogada 46---
+O jogador 2 lança o dado!
+Resultado:  5 
+Fim da jogada!
+
+--- Jogada 47---
+O jogador 3 lança o dado!
+Resultado:  2 
+Mover qual peão com o dado 2? (2) (3) (4) 
+2
+45 0 0 0 
+0 0 7 0 
+0 0 1 0 
+0 0 1 0 
+Fim da jogada!
+
+--- Jogada 48---
+O jogador 4 lança o dado!
+Resultado:  4 
+Fim da jogada!
+
+--- Jogada 49---
+O jogador 1 lança o dado!
+Resultado:  4 
+Mover qual peão com o dado 4? (1) 
+1
+49 0 0 0 
+0 0 7 0 
+0 0 1 0 
+0 0 1 0 
+Fim da jogada!
+
+--- Jogada 50---
+O jogador 2 lança o dado!
+Resultado:  2 
+Fim da jogada!
+
+--- Jogada 51---
+O jogador 3 lança o dado!
+Resultado:  6 
+Resultado:  3 
+Mover qual peão com o dado 6? (1) (2) (3) (4) 
+1
+49 0 1 0 
+0 0 7 0 
+0 0 1 0 
+0 0 1 0 
+Mover qual peão com o dado 3? (1) (2) (3) (4) 
+2
+49 0 1 0 
+0 0 10 0 
+0 0 1 0 
+0 0 1 0 
+Fim da jogada!
+
+--- Jogada 52---
+O jogador 4 lança o dado!
+Resultado:  2 
+Fim da jogada!
+
+--- Jogada 53---
+O jogador 1 lança o dado!
+Resultado:  5 
+Mover qual peão com o dado 5? (1) 
+1
+54 0 1 0 
+0 0 10 0 
+0 0 1 0 
+0 0 1 0 
+Fim da jogada!
+
+--- Jogada 54---
+O jogador 2 lança o dado!
+Resultado:  5 
+Fim da jogada!
+
+--- Jogada 55---
+O jogador 3 lança o dado!
+Resultado:  6 
+Resultado:  4 
+Mover qual peão com o dado 6? (1) (2) (3) (4) 
+2
+54 0 1 0 
+0 0 16 0 
+0 0 1 0 
+0 0 1 0 
+Mover qual peão com o dado 4? (1) (2) (3) (4) 
+2
+54 0 1 0 
+0 0 20 0 
+0 0 1 0 
+0 0 1 0 
+Fim da jogada!
+
+--- Jogada 56---
+O jogador 4 lança o dado!
+Resultado:  5 
+Fim da jogada!
+
+--- Jogada 57---
+O jogador 1 lança o dado!
+Resultado:  5 
+Fim da jogada!
+
+--- Jogada 58---
+O jogador 2 lança o dado!
+Resultado:  4 
+Fim da jogada!
+
+--- Jogada 59---
+O jogador 3 lança o dado!
+Resultado:  5 
+Mover qual peão com o dado 5? (1) (2) (3) (4) 
+2
+54 0 1 0 
+0 0 25 0 
+0 0 1 0 
+0 0 1 0 
+Fim da jogada!
+
+--- Jogada 60---
+O jogador 4 lança o dado!
+Resultado:  1 
+Fim da jogada!
+
+--- Jogada 61---
+O jogador 1 lança o dado!
+Resultado:  6 
+Resultado:  3 
+Mover qual peão com o dado 6? (2) (3) (4) 
+2
+54 0 1 0 
+1 0 25 0 
+0 0 1 0 
+0 0 1 0 
+Mover qual peão com o dado 3? (1) (2) 
+1
+57 0 1 0 
+1 0 25 0 
+0 0 1 0 
+0 0 1 0 
+O peão 1 chegou ao final!
+O jogador 1 ganha outro dado!
+Resultado:  1 
+Mover qual peão com o dado 1? (2) 
+2
+58 0 1 0 
+2 0 25 0 
+0 0 1 0 
+0 0 1 0 
+Fim da jogada!
+
+--- Jogada 62---
+O jogador 2 lança o dado!
+Resultado:  5 
+Fim da jogada!
+
+--- Jogada 63---
+O jogador 3 lança o dado!
+Resultado:  1 
+Mover qual peão com o dado 1? (1) (2) (3) (4) 
+2
+58 0 1 0 
+2 0 26 0 
+0 0 1 0 
+0 0 1 0 
+Fim da jogada!
+
+--- Jogada 64---
+O jogador 4 lança o dado!
+Resultado:  1 
+Fim da jogada!
+
+--- Jogada 65---
+O jogador 1 lança o dado!
+Resultado:  3 
+Mover qual peão com o dado 3? (2) 
+2
+58 0 1 0 
+5 0 26 0 
+0 0 1 0 
+0 0 1 0 
+Fim da jogada!
+
+--- Jogada 66---
+O jogador 2 lança o dado!
+Resultado:  5 
+Fim da jogada!
+
+--- Jogada 67---
+O jogador 3 lança o dado!
+Resultado:  6 
+Resultado:  1 
+Mover qual peão com o dado 6? (1) (2) (3) (4) 
+2
+58 0 1 0 
+5 0 32 0 
+0 0 1 0 
+0 0 1 0 
+Mover qual peão com o dado 1? (1) (2) (3) (4) 
+2
+58 0 1 0 
+5 0 33 0 
+0 0 1 0 
+0 0 1 0 
+Fim da jogada!
+
+--- Jogada 68---
+O jogador 4 lança o dado!
+Resultado:  4 
+Fim da jogada!
+
+--- Jogada 69---
+O jogador 1 lança o dado!
+Resultado:  4 
+Mover qual peão com o dado 4? (2) 
+2
+58 0 1 0 
+9 0 33 0 
+0 0 1 0 
+0 0 1 0 
+Fim da jogada!
+
+--- Jogada 70---
+O jogador 2 lança o dado!
+Resultado:  5 
+Fim da jogada!
+
+--- Jogada 71---
+O jogador 3 lança o dado!
+Resultado:  4 
+Mover qual peão com o dado 4? (1) (2) (3) (4) 
+2
+58 0 1 0 
+9 0 37 0 
+0 0 1 0 
+0 0 1 0 
+Fim da jogada!
+
+--- Jogada 72---
+O jogador 4 lança o dado!
+Resultado:  2 
+Fim da jogada!
+
+--- Jogada 73---
+O jogador 1 lança o dado!
+Resultado:  6 
+Resultado:  3 
+Mover qual peão com o dado 6? (2) (3) (4) 
+3
+58 0 1 0 
+9 0 37 0 
+1 0 1 0 
+0 0 1 0 
+Mover qual peão com o dado 3? (2) (3) 
+3
+58 0 1 0 
+9 0 37 0 
+4 0 1 0 
+0 0 1 0 
+Fim da jogada!
+
+--- Jogada 74---
+O jogador 2 lança o dado!
+Resultado:  2 
+Fim da jogada!
+
+--- Jogada 75---
+O jogador 3 lança o dado!
+Resultado:  6 
+Resultado:  4 
+Mover qual peão com o dado 6? (1) (2) (3) (4) 
+2
+58 0 1 0 
+9 0 43 0 
+4 0 1 0 
+0 0 1 0 
+Comeu o peão 3 do jogador 1!
+Mover qual peão com o dado 4? (1) (2) (3) (4) 
+2
+58 0 1 0 
+9 0 47 0 
+0 0 1 0 
+0 0 1 0 
+O jogador 3 ganha outro dado!
+Resultado:  2 
+Mover qual peão com o dado 2? (1) (2) (3) (4) 
+2
+58 0 1 0 
+9 0 49 0 
+0 0 1 0 
+0 0 1 0 
+Fim da jogada!
+
+--- Jogada 76---
+O jogador 4 lança o dado!
+Resultado:  1 
+Fim da jogada!
+
+--- Jogada 77---
+O jogador 1 lança o dado!
+Resultado:  4 
+Mover qual peão com o dado 4? (2) 
+2
+58 0 1 0 
+13 0 49 0 
+0 0 1 0 
+0 0 1 0 
+Fim da jogada!
+
+--- Jogada 78---
+O jogador 2 lança o dado!
+Resultado:  5 
+Fim da jogada!
+
+--- Jogada 79---
+O jogador 3 lança o dado!
+Resultado:  5 
+Mover qual peão com o dado 5? (1) (2) (3) (4) 
+2
+58 0 1 0 
+13 0 54 0 
+0 0 1 0 
+0 0 1 0 
+Fim da jogada!
+
+--- Jogada 80---
+O jogador 4 lança o dado!
+Resultado:  2 
+Fim da jogada!
+
+--- Jogada 81---
+O jogador 1 lança o dado!
+Resultado:  2 
+Mover qual peão com o dado 2? (2) 
+2
+58 0 1 0 
+15 0 54 0 
+0 0 1 0 
+0 0 1 0 
+Fim da jogada!
+
+--- Jogada 82---
+O jogador 2 lança o dado!
+Resultado:  1 
+Fim da jogada!
+
+--- Jogada 83---
+O jogador 3 lança o dado!
+Resultado:  2 
+Mover qual peão com o dado 2? (1) (2) (3) (4) 
+2
+58 0 1 0 
+15 0 56 0 
+0 0 1 0 
+0 0 1 0 
+Fim da jogada!
+
+--- Jogada 84---
+O jogador 4 lança o dado!
+Resultado:  3 
+Fim da jogada!
+
+--- Jogada 85---
+O jogador 1 lança o dado!
+Resultado:  2 
+Mover qual peão com o dado 2? (2) 
+2
+58 0 1 0 
+17 0 56 0 
+0 0 1 0 
+0 0 1 0 
+Fim da jogada!
+
+--- Jogada 86---
+O jogador 2 lança o dado!
+Resultado:  2 
+Fim da jogada!
+
+--- Jogada 87---
+O jogador 3 lança o dado!
+Resultado:  2 
+Mover qual peão com o dado 2? (1) (3) (4) 
+3
+58 0 1 0 
+17 0 56 0 
+0 0 3 0 
+0 0 1 0 
+Fim da jogada!
+
+--- Jogada 88---
+O jogador 4 lança o dado!
+Resultado:  1 
+Fim da jogada!
+
+--- Jogada 89---
+O jogador 1 lança o dado!
+Resultado:  5 
+Mover qual peão com o dado 5? (2) 
+2
+58 0 1 0 
+22 0 56 0 
+0 0 3 0 
+0 0 1 0 
+Fim da jogada!
+
+--- Jogada 90---
+O jogador 2 lança o dado!
+Resultado:  6 
+Resultado:  3 
+Mover qual peão com o dado 6? (1) (2) (3) (4) 
+1
+58 1 1 0 
+22 0 56 0 
+0 0 3 0 
+0 0 1 0 
+Mover qual peão com o dado 3? (1) 
+1
+58 4 1 0 
+22 0 56 0 
+0 0 3 0 
+0 0 1 0 
+Fim da jogada!
+
+--- Jogada 91---
+O jogador 3 lança o dado!
+Resultado:  6 
+Resultado:  2 
+Mover qual peão com o dado 6? (1) (3) (4) 
+3
+58 4 1 0 
+22 0 56 0 
+0 0 9 0 
+0 0 1 0 
+Mover qual peão com o dado 2? (1) (3) (4) 
+3
+58 4 1 0 
+22 0 56 0 
+0 0 11 0 
+0 0 1 0 
+Fim da jogada!
+
+--- Jogada 92---
+O jogador 4 lança o dado!
+Resultado:  4 
+Fim da jogada!
+
+--- Jogada 93---
+O jogador 1 lança o dado!
+Resultado:  4 
+Mover qual peão com o dado 4? (2) 
+2
+58 4 1 0 
+26 0 56 0 
+0 0 11 0 
+0 0 1 0 
+Fim da jogada!
+
+--- Jogada 94---
+O jogador 2 lança o dado!
+Resultado:  6 
+Resultado:  4 
+Mover qual peão com o dado 6? (1) (2) (3) (4) 
+4
+58 4 1 0 
+26 0 56 0 
+0 0 11 0 
+0 1 1 0 
+Mover qual peão com o dado 4? (1) (4) 
+1
+58 8 1 0 
+26 0 56 0 
+0 0 11 0 
+0 1 1 0 
+Fim da jogada!
+
+--- Jogada 95---
+O jogador 3 lança o dado!
+Resultado:  3 
+Mover qual peão com o dado 3? (1) (3) (4) 
+3
+58 8 1 0 
+26 0 56 0 
+0 0 14 0 
+0 1 1 0 
+Fim da jogada!
+
+--- Jogada 96---
+O jogador 4 lança o dado!
+Resultado:  6 
+Resultado:  4 
+Mover qual peão com o dado 6? (1) (2) (3) (4) 
+4
+58 8 1 0 
+26 0 56 0 
+0 0 14 0 
+0 1 1 1 
+Mover qual peão com o dado 4? (4) 
+4
+58 8 1 0 
+26 0 56 0 
+0 0 14 0 
+0 1 1 5 
+Fim da jogada!
+
+--- Jogada 97---
+O jogador 1 lança o dado!
+Resultado:  4 
+Mover qual peão com o dado 4? (2) 
+4
+2
+58 8 1 0 
+30 0 56 0 
+0 0 14 0 
+0 1 1 5 
+Fim da jogada!
+
+--- Jogada 98---
+O jogador 2 lança o dado!
+Resultado:  1 
+Mover qual peão com o dado 1? (1) (4) 
+4
+58 8 1 0 
+30 0 56 0 
+0 0 14 0 
+0 2 1 5 
+Fim da jogada!
+
+--- Jogada 99---
+O jogador 3 lança o dado!
+Resultado:  1 
+Mover qual peão com o dado 1? (1) (2) (3) (4) 
+2
+58 8 1 0 
+30 0 57 0 
+0 0 14 0 
+0 2 1 5 
+O peão 2 chegou ao final!
+O jogador 3 ganha outro dado!
+Resultado:  1 
+Mover qual peão com o dado 1? (1) (3) (4) 
+1
+58 8 2 0 
+30 0 58 0 
+0 0 14 0 
+0 2 1 5 
+Fim da jogada!
+
+--- Jogada 100---
+O jogador 4 lança o dado!
+Resultado:  1 
+Mover qual peão com o dado 1? (4) 
+1
+4
+58 8 2 0 
+30 0 58 0 
+0 0 14 0 
+0 2 1 6 
+Fim da jogada!
+
+--- Jogada 101---
+O jogador 1 lança o dado!
+Resultado:  1 
+Mover qual peão com o dado 1? (2) 
+2
+58 8 2 0 
+31 0 58 0 
+0 0 14 0 
+0 2 1 6 
+Fim da jogada!
+
+--- Jogada 102---
+O jogador 2 lança o dado!
+Resultado:  5 
+Mover qual peão com o dado 5? (1) (4) 
+4
+58 8 2 0 
+31 0 58 0 
+0 0 14 0 
+0 7 1 6 
+Fim da jogada!
+
+--- Jogada 103---
+O jogador 3 lança o dado!
+Resultado:  3 
+Mover qual peão com o dado 3? (1) (3) (4) 
+3
+58 8 2 0 
+31 0 58 0 
+0 0 17 0 
+0 7 1 6 
+Fim da jogada!
+
+--- Jogada 104---
+O jogador 4 lança o dado!
+Resultado:  5 
+Mover qual peão com o dado 5? (4) 
+4
+58 8 2 0 
+31 0 58 0 
+0 0 17 0 
+0 7 1 11 
+Fim da jogada!
+
+--- Jogada 105---
+O jogador 1 lança o dado!
+Resultado:  6 
+Resultado:  5 
+Mover qual peão com o dado 6? (2) (3) (4) 
+4
+58 8 2 0 
+31 0 58 0 
+0 0 17 0 
+1 7 1 11 
+Mover qual peão com o dado 5? (2) (4) 
+2
+58 8 2 0 
+36 0 58 0 
+0 0 17 0 
+1 7 1 11 
+Fim da jogada!
+
+--- Jogada 106---
+O jogador 2 lança o dado!
+Resultado:  6 
+Resultado:  3 
+Mover qual peão com o dado 6? (1) (2) (3) (4) 
+3
+58 8 2 0 
+36 0 58 0 
+0 1 17 0 
+1 7 1 11 
+Mover qual peão com o dado 3? (1) (3) (4) 
+1
+58 11 2 0 
+36 0 58 0 
+0 1 17 0 
+1 7 1 11 
+Fim da jogada!
+
+--- Jogada 107---
+O jogador 3 lança o dado!
+Resultado:  4 
+Mover qual peão com o dado 4? (1) (3) (4) 
+3
+58 11 2 0 
+36 0 58 0 
+0 1 21 0 
+1 7 1 11 
+Fim da jogada!
+
+--- Jogada 108---
+O jogador 4 lança o dado!
+Resultado:  3 
+Mover qual peão com o dado 3? (4) 
+3
+1
+4
+58 11 2 0 
+36 0 58 0 
+0 1 21 0 
+1 7 1 14 
+Fim da jogada!
+
+--- Jogada 109---
+O jogador 1 lança o dado!
+Resultado:  5 
+Mover qual peão com o dado 5? (2) (4) 
+2
+58 11 2 0 
+41 0 58 0 
+0 1 21 0 
+1 7 1 14 
+Fim da jogada!
+
+--- Jogada 110---
+O jogador 2 lança o dado!
+Resultado:  4 
+Mover qual peão com o dado 4? (1) (3) (4) 
+1
+58 15 2 0 
+41 0 58 0 
+0 1 21 0 
+1 7 1 14 
+Comeu o peão 2 do jogador 1!
+O jogador 2 ganha outro dado!
+Resultado:  5 
+Mover qual peão com o dado 5? (1) (3) (4) 
+1
+58 20 2 0 
+0 0 58 0 
+0 1 21 0 
+1 7 1 14 
+Fim da jogada!
+
+--- Jogada 111---
+O jogador 3 lança o dado!
+Resultado:  3 
+Mover qual peão com o dado 3? (1) (3) (4) 
+3
+58 20 2 0 
+0 0 58 0 
+0 1 24 0 
+1 7 1 14 
+Fim da jogada!
+
+--- Jogada 112---
+O jogador 4 lança o dado!
+Resultado:  6 
+Resultado:  4 
+Mover qual peão com o dado 6? (1) (2) (3) (4) 
+2
+58 20 2 0 
+0 0 58 1 
+0 1 24 0 
+1 7 1 14 
+Mover qual peão com o dado 4? (2) (4) 
+4
+58 20 2 0 
+0 0 58 1 
+0 1 24 0 
+1 7 1 18 
+Fim da jogada!
+
+--- Jogada 113---
+O jogador 1 lança o dado!
+Resultado:  3 
+Mover qual peão com o dado 3? (4) 
+4
+58 20 2 0 
+0 0 58 1 
+0 1 24 0 
+4 7 1 18 
+Fim da jogada!
+
+--- Jogada 114---
+O jogador 2 lança o dado!
+Resultado:  6 
+Resultado:  3 
+Mover qual peão com o dado 6? (1) (2) (3) (4) 
+3
+58 20 2 0 
+0 0 58 1 
+0 7 24 0 
+4 7 1 18 
+Mover qual peão com o dado 3? (1) (3) (4) 
+3
+58 20 2 0 
+0 0 58 1 
+0 10 24 0 
+4 7 1 18 
+Fim da jogada!
+
+--- Jogada 115---
+O jogador 3 lança o dado!
+Resultado:  5 
+Mover qual peão com o dado 5? (1) (3) (4) 
+33
+3
+58 20 2 0 
+0 0 58 1 
+0 10 29 0 
+4 7 1 18 
+Fim da jogada!
+
+--- Jogada 116---
+O jogador 4 lança o dado!
+Resultado:  3 
+Mover qual peão com o dado 3? (2) (4) 
+4
+58 20 2 0 
+0 0 58 1 
+0 10 29 0 
+4 7 1 21 
+Fim da jogada!
+
+--- Jogada 117---
+O jogador 1 lança o dado!
+Resultado:  3 
+Mover qual peão com o dado 3? (4) 
+4
+58 20 2 0 
+0 0 58 1 
+0 10 29 0 
+7 7 1 21 
+Fim da jogada!
+
+--- Jogada 118---
+O jogador 2 lança o dado!
+Resultado:  2 
+Mover qual peão com o dado 2? (1) (3) (4) 
+3
+58 20 2 0 
+0 0 58 1 
+0 12 29 0 
+7 7 1 21 
+Fim da jogada!
+
+--- Jogada 119---
+O jogador 3 lança o dado!
+Resultado:  2 
+Mover qual peão com o dado 2? (1) (3) (4) 
+4
+58 20 2 0 
+0 0 58 1 
+0 12 29 0 
+7 7 3 21 
+Fim da jogada!
+
+--- Jogada 120---
+O jogador 4 lança o dado!
+Resultado:  5 
+Mover qual peão com o dado 5? (2) (4) 
+4
+58 20 2 0 
+0 0 58 1 
+0 12 29 0 
+7 7 3 26 
+Fim da jogada!
+
+--- Jogada 121---
+O jogador 1 lança o dado!
+Resultado:  2 
+Mover qual peão com o dado 2? (4) 
+4
+58 20 2 0 
+0 0 58 1 
+0 12 29 0 
+9 7 3 26 
+Fim da jogada!
+
+--- Jogada 122---
+O jogador 2 lança o dado!
+Resultado:  4 
+Mover qual peão com o dado 4? (1) (3) (4) 
+4
+58 20 2 0 
+0 0 58 1 
+0 12 29 0 
+9 11 3 26 
+Fim da jogada!
+
+--- Jogada 123---
+O jogador 3 lança o dado!
+Resultado:  5 
+Mover qual peão com o dado 5? (1) (3) (4) 
+4
+58 20 2 0 
+0 0 58 1 
+0 12 29 0 
+9 11 8 26 
+Fim da jogada!
+
+--- Jogada 124---
+O jogador 4 lança o dado!
+Resultado:  5 
+Mover qual peão com o dado 5? (2) (4) 
+4
+58 20 2 0 
+0 0 58 1 
+0 12 29 0 
+9 11 8 31 
+Fim da jogada!
+
+--- Jogada 125---
+O jogador 1 lança o dado!
+Resultado:  6 
+Resultado:  6 
+Resultado:  1 
+Mover qual peão com o dado 6? (2) (3) (4) 
+4
+58 20 2 0 
+0 0 58 1 
+0 12 29 0 
+15 11 8 31 
+Comeu o peão 1 do jogador 3!
+Mover qual peão com o dado 6? (2) (3) (4) 
+2
+58 20 0 0 
+1 0 58 1 
+0 12 29 0 
+15 11 8 31 
+Mover qual peão com o dado 1? (2) (4) 
+4
+58 20 0 0 
+1 0 58 1 
+0 12 29 0 
+16 11 8 31 
+O jogador 1 ganha outro dado!
+Resultado:  3 
+Mover qual peão com o dado 3? (2) (4) 
+4
+58 20 0 0 
+1 0 58 1 
+0 12 29 0 
+19 11 8 31 
+Fim da jogada!
+
+--- Jogada 126---
+O jogador 2 lança o dado!
+Resultado:  1 
+Mover qual peão com o dado 1? (1) (3) (4) 
+2
+4
+58 20 0 0 
+1 0 58 1 
+0 12 29 0 
+19 12 8 31 
+Fim da jogada!
+
+--- Jogada 127---
+O jogador 3 lança o dado!
+Resultado:  1 
+Mover qual peão com o dado 1? (3) (4) 
+4
+58 20 0 0 
+1 0 58 1 
+0 12 29 0 
+19 12 9 31 
+Fim da jogada!
+
+--- Jogada 128---
+O jogador 4 lança o dado!
+Resultado:  3 
+Mover qual peão com o dado 3? (2) (4) 
+3
+2
+58 20 0 0 
+1 0 58 4 
+0 12 29 0 
+19 12 9 31 
+Fim da jogada!
+
+--- Jogada 129---
+O jogador 1 lança o dado!
+Resultado:  5 
+Mover qual peão com o dado 5? (2) (4) 
+4
+58 20 0 0 
+1 0 58 4 
+0 12 29 0 
+24 12 9 31 
+Fim da jogada!
+
+--- Jogada 130---
+O jogador 2 lança o dado!
+Resultado:  2 
+Mover qual peão com o dado 2? (1) (3) (4) 
+3
+58 20 0 0 
+1 0 58 4 
+0 14 29 0 
+24 12 9 31 
+Fim da jogada!
+
+--- Jogada 131---
+O jogador 3 lança o dado!
+Resultado:  5 
+Mover qual peão com o dado 5? (3) (4) 
+3
+58 20 0 0 
+1 0 58 4 
+0 14 34 0 
+24 12 9 31 
+Fim da jogada!
+
+--- Jogada 132---
+O jogador 4 lança o dado!
+Resultado:  1 
+Mover qual peão com o dado 1? (2) (4) 
+3
+2
+58 20 0 0 
+1 0 58 5 
+0 14 34 0 
+24 12 9 31 
+Fim da jogada!
+
+--- Jogada 133---
+O jogador 1 lança o dado!
+Resultado:  3 
+Mover qual peão com o dado 3? (2) (4) 
+4
+58 20 0 0 
+1 0 58 5 
+0 14 34 0 
+27 12 9 31 
+Fim da jogada!
+
+--- Jogada 134---
+O jogador 2 lança o dado!
+Resultado:  6 
+Resultado:  5 
+Mover qual peão com o dado 6? (1) (2) (3) (4) 
+2
+58 20 0 0 
+1 1 58 5 
+0 14 34 0 
+27 12 9 31 
+Mover qual peão com o dado 5? (1) (2) (3) (4) 
+3
+58 20 0 0 
+1 1 58 5 
+0 19 34 0 
+27 12 9 31 
+Fim da jogada!
+
+--- Jogada 135---
+O jogador 3 lança o dado!
+Resultado:  3 
+Mover qual peão com o dado 3? (3) (4) 
+3
+58 20 0 0 
+1 1 58 5 
+0 19 37 0 
+27 12 9 31 
+Fim da jogada!
+
+--- Jogada 136---
+O jogador 4 lança o dado!
+Resultado:  3 
+Mover qual peão com o dado 3? (2) (4) 
+3
+2
+58 20 0 0 
+1 1 58 8 
+0 19 37 0 
+27 12 9 31 
+Fim da jogada!
+
+--- Jogada 137---
+O jogador 1 lança o dado!
+Resultado:  1 
+Mover qual peão com o dado 1? (2) (4) 
+2
+58 20 0 0 
+2 1 58 8 
+0 19 37 0 
+27 12 9 31 
+Fim da jogada!
+
+--- Jogada 138---
+O jogador 2 lança o dado!
+Resultado:  2 
+Mover qual peão com o dado 2? (1) (2) (3) (4) 
+2
+58 20 0 0 
+2 3 58 8 
+0 19 37 0 
+27 12 9 31 
+Fim da jogada!
+
+--- Jogada 139---
+O jogador 3 lança o dado!
+Resultado:  1 
+Mover qual peão com o dado 1? (3) (4) 
+3
+58 20 0 0 
+2 3 58 8 
+0 19 38 0 
+27 12 9 31 
+Fim da jogada!
+
+--- Jogada 140---
+O jogador 4 lança o dado!
+Resultado:  2 
+Mover qual peão com o dado 2? (2) (4) 
+4
+58 20 0 0 
+2 3 58 8 
+0 19 38 0 
+27 12 9 33 
+Fim da jogada!
+
+--- Jogada 141---
+O jogador 1 lança o dado!
+Resultado:  6 
+Resultado:  5 
+Mover qual peão com o dado 6? (2) (3) (4) 
+3
+58 20 0 0 
+2 3 58 8 
+1 19 38 0 
+27 12 9 33 
+Mover qual peão com o dado 5? (2) (3) (4) 
+4
+58 20 0 0 
+2 3 58 8 
+1 19 38 0 
+32 12 9 33 
+Fim da jogada!
+
+--- Jogada 142---
+O jogador 2 lança o dado!
+Resultado:  1 
+Mover qual peão com o dado 1? (1) (2) (3) (4) 
+2
+58 20 0 0 
+2 4 58 8 
+1 19 38 0 
+32 12 9 33 
+Fim da jogada!
+
+--- Jogada 143---
+O jogador 3 lança o dado!
+Resultado:  4 
+Mover qual peão com o dado 4? (3) (4) 
+3
+58 20 0 0 
+2 4 58 8 
+1 19 42 0 
+32 12 9 33 
+Fim da jogada!
+
+--- Jogada 144---
+O jogador 4 lança o dado!
+Resultado:  4 
+Mover qual peão com o dado 4? (2) (4) 
+2
+58 20 0 0 
+2 4 58 12 
+1 19 42 0 
+32 12 9 33 
+Fim da jogada!
+
+--- Jogada 145---
+O jogador 1 lança o dado!
+Resultado:  1 
+Mover qual peão com o dado 1? (2) (3) (4) 
+2
+58 20 0 0 
+3 4 58 12 
+1 19 42 0 
+32 12 9 33 
+Comeu o peão 3 do jogador 3!
+O jogador 1 ganha outro dado!
+Resultado:  1 
+Mover qual peão com o dado 1? (2) (3) (4) 
+2
+58 20 0 0 
+4 4 58 12 
+1 19 0 0 
+32 12 9 33 
+Fim da jogada!
+
+--- Jogada 146---
+O jogador 2 lança o dado!
+Resultado:  5 
+Mover qual peão com o dado 5? (1) (2) (3) (4) 
+2
+58 20 0 0 
+4 9 58 12 
+1 19 0 0 
+32 12 9 33 
+Fim da jogada!
+
+--- Jogada 147---
+O jogador 3 lança o dado!
+Resultado:  2 
+Mover qual peão com o dado 2? (4) 
+4
+58 20 0 0 
+4 9 58 12 
+1 19 0 0 
+32 12 11 33 
+Fim da jogada!
+
+--- Jogada 148---
+O jogador 4 lança o dado!
+Resultado:  4 
+Mover qual peão com o dado 4? (2) (4) 
+4
+58 20 0 0 
+4 9 58 12 
+1 19 0 0 
+32 12 11 37 
+Comeu o peão 4 do jogador 3!
+O jogador 4 ganha outro dado!
+Resultado:  1 
+Mover qual peão com o dado 1? (2) (4) 
+Digite o numero do peão
+2
+58 20 0 0 
+4 9 58 13 
+1 19 0 0 
+32 12 0 37 
+Fim da jogada!
+
+--- Jogada 149---
+O jogador 1 lança o dado!
+Resultado:  1 
+Mover qual peão com o dado 1? (2) (3) (4) 
+2
+58 20 0 0 
+5 9 58 13 
+1 19 0 0 
+32 12 0 37 
+Fim da jogada!
+
+--- Jogada 150---
+O jogador 2 lança o dado!
+Resultado:  3 
+Mover qual peão com o dado 3? (1) (2) (3) (4) 
+3
+58 20 0 0 
+5 9 58 13 
+1 22 0 0 
+32 12 0 37 
+Fim da jogada!
+
+--- Jogada 151---
+O jogador 3 lança o dado!
+Resultado:  2 
+Fim da jogada!
+
+--- Jogada 152---
+O jogador 4 lança o dado!
+Resultado:  4 
+Mover qual peão com o dado 4? (2) (4) 
+2
+58 20 0 0 
+5 9 58 17 
+1 22 0 0 
+32 12 0 37 
+Fim da jogada!
+
+--- Jogada 153---
+O jogador 1 lança o dado!
+Resultado:  1 
+Mover qual peão com o dado 1? (2) (3) (4) 
+3
+58 20 0 0 
+5 9 58 17 
+2 22 0 0 
+32 12 0 37 
+Fim da jogada!
+
+--- Jogada 154---
+O jogador 2 lança o dado!
+Resultado:  1 
+Mover qual peão com o dado 1? (1) (2) (3) (4) 
+4
+58 20 0 0 
+5 9 58 17 
+2 22 0 0 
+32 13 0 37 
+Fim da jogada!
+
+--- Jogada 155---
+O jogador 3 lança o dado!
+Resultado:  4 
+Fim da jogada!
+
+--- Jogada 156---
+O jogador 4 lança o dado!
+Resultado:  1 
+Mover qual peão com o dado 1? (2) (4) 
+2
+58 20 0 0 
+5 9 58 18 
+2 22 0 0 
+32 13 0 37 
+Comeu o peão 2 do jogador 1!
+O jogador 4 ganha outro dado!
+Resultado:  4 
+Mover qual peão com o dado 4? (2) (4) 
+4
+58 20 0 0 
+0 9 58 18 
+2 22 0 0 
+32 13 0 41 
+Fim da jogada!
+
+--- Jogada 157---
+O jogador 1 lança o dado!
+Resultado:  5 
+Mover qual peão com o dado 5? (3) (4) 
+4
+58 20 0 0 
+0 9 58 18 
+2 22 0 0 
+37 13 0 41 
+Fim da jogada!
+
+--- Jogada 158---
+O jogador 2 lança o dado!
+Resultado:  5 
+Mover qual peão com o dado 5? (1) (2) (3) (4) 
+4
+58 20 0 0 
+0 9 58 18 
+2 22 0 0 
+37 18 0 41 
+Fim da jogada!
+
+--- Jogada 159---
+O jogador 3 lança o dado!
+Resultado:  4 
+Fim da jogada!
+
+--- Jogada 160---
+O jogador 4 lança o dado!
+Resultado:  3 
+Mover qual peão com o dado 3? (2) (4) 
+4
+58 20 0 0 
+0 9 58 18 
+2 22 0 0 
+37 18 0 44 
+Fim da jogada!
+
+--- Jogada 161---
+O jogador 1 lança o dado!
+Resultado:  6 
+Resultado:  3 
+Mover qual peão com o dado 6? (2) (3) (4) 
+4
+58 20 0 0 
+0 9 58 18 
+2 22 0 0 
+43 18 0 44 
+Mover qual peão com o dado 3? (3) (4) 
+Digite o numero do peão
+4
+58 20 0 0 
+0 9 58 18 
+2 22 0 0 
+46 18 0 44 
+Comeu o peão 1 do jogador 2!
+O jogador 1 ganha outro dado!
+Resultado:  3 
+Mover qual peão com o dado 3? (3) (4) 
+4
+58 0 0 0 
+0 9 58 18 
+2 22 0 0 
+49 18 0 44 
+Fim da jogada!
+
+--- Jogada 162---
+O jogador 2 lança o dado!
+Resultado:  6 
+Resultado:  3 
+Mover qual peão com o dado 6? (1) (2) (3) (4) 
+2
+58 0 0 0 
+0 15 58 18 
+2 22 0 0 
+49 18 0 44 
+Mover qual peão com o dado 3? (2) (3) (4) 
+2
+58 0 0 0 
+0 18 58 18 
+2 22 0 0 
+49 18 0 44 
+Fim da jogada!
+
+--- Jogada 163---
+O jogador 3 lança o dado!
+Resultado:  2 
+Fim da jogada!
+
+--- Jogada 164---
+O jogador 4 lança o dado!
+Resultado:  4 
+Mover qual peão com o dado 4? (2) (4) 
+4
+58 0 0 0 
+0 18 58 18 
+2 22 0 0 
+49 18 0 48 
+Fim da jogada!
+
+--- Jogada 165---
+O jogador 1 lança o dado!
+Resultado:  1 
+Mover qual peão com o dado 1? (3) (4) 
+4
+58 0 0 0 
+0 18 58 18 
+2 22 0 0 
+50 18 0 48 
+Fim da jogada!
+
+--- Jogada 166---
+O jogador 2 lança o dado!
+Resultado:  3 
+Mover qual peão com o dado 3? (2) (3) (4) 
+4
+58 0 0 0 
+0 18 58 18 
+2 22 0 0 
+50 21 0 48 
+Fim da jogada!
+
+--- Jogada 167---
+O jogador 3 lança o dado!
+Resultado:  4 
+Fim da jogada!
+
+--- Jogada 168---
+O jogador 4 lança o dado!
+Resultado:  6 
+Resultado:  3 
+Mover qual peão com o dado 6? (1) (2) (3) (4) 
+Digite o numero do peão
+4
+58 0 0 0 
+0 18 58 18 
+2 22 0 0 
+50 21 0 54 
+Mover qual peão com o dado 3? (2) (4) 
+4
+58 0 0 0 
+0 18 58 18 
+2 22 0 0 
+50 21 0 57 
+O peão 4 chegou ao final!
+O jogador 4 ganha outro dado!
+Resultado:  3 
+Mover qual peão com o dado 3? (2) 
+2
+58 0 0 0 
+0 18 58 21 
+2 22 0 0 
+50 21 0 58 
+Fim da jogada!
+
+--- Jogada 169---
+O jogador 1 lança o dado!
+Resultado:  5 
+Mover qual peão com o dado 5? (3) (4) 
+4
+58 0 0 0 
+0 18 58 21 
+2 22 0 0 
+55 21 0 58 
+Fim da jogada!
+
+--- Jogada 170---
+O jogador 2 lança o dado!
+Resultado:  4 
+Mover qual peão com o dado 4? (2) (3) (4) 
+4
+58 0 0 0 
+0 18 58 21 
+2 22 0 0 
+55 25 0 58 
+Fim da jogada!
+
+--- Jogada 171---
+O jogador 3 lança o dado!
+Resultado:  3 
+Fim da jogada!
+
+--- Jogada 172---
+O jogador 4 lança o dado!
+Resultado:  3 
+Mover qual peão com o dado 3? (2) 
+2
+58 0 0 0 
+0 18 58 24 
+2 22 0 0 
+55 25 0 58 
+Fim da jogada!
+
+--- Jogada 173---
+O jogador 1 lança o dado!
+Resultado:  5 
+Mover qual peão com o dado 5? (3) 
+3
+58 0 0 0 
+0 18 58 24 
+7 22 0 0 
+55 25 0 58 
+Fim da jogada!
+
+--- Jogada 174---
+O jogador 2 lança o dado!
+Resultado:  1 
+Mover qual peão com o dado 1? (2) (3) (4) 
+3
+58 0 0 0 
+0 18 58 24 
+7 23 0 0 
+55 25 0 58 
+Fim da jogada!
+
+--- Jogada 175---
+O jogador 3 lança o dado!
+Resultado:  3 
+Fim da jogada!
+
+--- Jogada 176---
+O jogador 4 lança o dado!
+Resultado:  5 
+Mover qual peão com o dado 5? (2) 
+2
+58 0 0 0 
+0 18 58 29 
+7 23 0 0 
+55 25 0 58 
+Fim da jogada!
+
+--- Jogada 177---
+O jogador 1 lança o dado!
+Resultado:  1 
+Mover qual peão com o dado 1? (3) (4) 
+4
+58 0 0 0 
+0 18 58 29 
+7 23 0 0 
+56 25 0 58 
+Fim da jogada!
+
+--- Jogada 178---
+O jogador 2 lança o dado!
+Resultado:  4 
+Mover qual peão com o dado 4? (2) (3) (4) 
+3
+58 0 0 0 
+0 18 58 29 
+7 27 0 0 
+56 25 0 58 
+Fim da jogada!
+
+--- Jogada 179---
+O jogador 3 lança o dado!
+Resultado:  3 
+Fim da jogada!
+
+--- Jogada 180---
+O jogador 4 lança o dado!
+Resultado:  4 
+Mover qual peão com o dado 4? (2) 
+2
+58 0 0 0 
+0 18 58 33 
+7 27 0 0 
+56 25 0 58 
+Fim da jogada!
+
+--- Jogada 181---
+O jogador 1 lança o dado!
+Resultado:  6 
+Resultado:  1 
+Mover qual peão com o dado 6? (2) (3) 
+2
+58 0 0 0 
+1 18 58 33 
+7 27 0 0 
+56 25 0 58 
+Mover qual peão com o dado 1? (2) (3) (4) 
+4
+58 0 0 0 
+1 18 58 33 
+7 27 0 0 
+57 25 0 58 
+O peão 4 chegou ao final!
+O jogador 1 ganha outro dado!
+Resultado:  1 
+Mover qual peão com o dado 1? (2) (3) 
+3
+58 0 0 0 
+1 18 58 33 
+8 27 0 0 
+58 25 0 58 
+Fim da jogada!
+
+--- Jogada 182---
+O jogador 2 lança o dado!
+Resultado:  4 
+Mover qual peão com o dado 4? (2) (3) (4) 
+4
+58 0 0 0 
+1 18 58 33 
+8 27 0 0 
+58 29 0 58 
+Fim da jogada!
+
+--- Jogada 183---
+O jogador 3 lança o dado!
+Resultado:  5 
+Fim da jogada!
+
+--- Jogada 184---
+O jogador 4 lança o dado!
+Resultado:  4 
+Mover qual peão com o dado 4? (2) 
+4
+2
+58 0 0 0 
+1 18 58 37 
+8 27 0 0 
+58 29 0 58 
+Fim da jogada!
+
+--- Jogada 185---
+O jogador 1 lança o dado!
+Resultado:  1 
+Mover qual peão com o dado 1? (2) (3) 
+3
+58 0 0 0 
+1 18 58 37 
+9 27 0 0 
+58 29 0 58 
+Fim da jogada!
+
+--- Jogada 186---
+O jogador 2 lança o dado!
+Resultado:  3 
+Mover qual peão com o dado 3? (2) (3) (4) 
+4
+58 0 0 0 
+1 18 58 37 
+9 27 0 0 
+58 32 0 58 
+Fim da jogada!
+
+--- Jogada 187---
+O jogador 3 lança o dado!
+Resultado:  2 
+Fim da jogada!
+
+--- Jogada 188---
+O jogador 4 lança o dado!
+Resultado:  1 
+Mover qual peão com o dado 1? (2) 
+2
+58 0 0 0 
+1 18 58 38 
+9 27 0 0 
+58 32 0 58 
+Fim da jogada!
+
+--- Jogada 189---
+O jogador 1 lança o dado!
+Resultado:  3 
+Mover qual peão com o dado 3? (2) (3) 
+2
+58 0 0 0 
+4 18 58 38 
+9 27 0 0 
+58 32 0 58 
+Fim da jogada!
+
+--- Jogada 190---
+O jogador 2 lança o dado!
+Resultado:  5 
+Mover qual peão com o dado 5? (2) (3) (4) 
+4
+58 0 0 0 
+4 18 58 38 
+9 27 0 0 
+58 37 0 58 
+Fim da jogada!
+
+--- Jogada 191---
+O jogador 3 lança o dado!
+Resultado:  1 
+Fim da jogada!
+
+--- Jogada 192---
+O jogador 4 lança o dado!
+Resultado:  6 
+Resultado:  5 
+Mover qual peão com o dado 6? (1) (2) (3) 
+1
+58 0 0 1 
+4 18 58 38 
+9 27 0 0 
+58 37 0 58 
+Mover qual peão com o dado 5? (1) (2) 
+2
+58 0 0 1 
+4 18 58 43 
+9 27 0 0 
+58 37 0 58 
+Fim da jogada!
+
+--- Jogada 193---
+O jogador 1 lança o dado!
+Resultado:  2 
+Mover qual peão com o dado 2? (2) (3) 
+2
+58 0 0 1 
+6 18 58 43 
+9 27 0 0 
+58 37 0 58 
+Fim da jogada!
+
+--- Jogada 194---
+O jogador 2 lança o dado!
+Resultado:  6 
+Resultado:  2 
+Mover qual peão com o dado 6? (1) (2) (3) (4) 
+1
+58 1 0 1 
+6 18 58 43 
+9 27 0 0 
+58 37 0 58 
+Mover qual peão com o dado 2? (1) (2) (3) (4) 
+3
+58 1 0 1 
+6 18 58 43 
+9 29 0 0 
+58 37 0 58 
+Fim da jogada!
+
+--- Jogada 195---
+O jogador 3 lança o dado!
+Resultado:  1 
+Fim da jogada!
+
+--- Jogada 196---
+O jogador 4 lança o dado!
+Resultado:  6 
+Resultado:  2 
+Mover qual peão com o dado 6? (1) (2) (3) 
+1
+58 1 0 7 
+6 18 58 43 
+9 29 0 0 
+58 37 0 58 
+Mover qual peão com o dado 2? (1) (2) 
+1
+58 1 0 9 
+6 18 58 43 
+9 29 0 0 
+58 37 0 58 
+Fim da jogada!
+
+--- Jogada 197---
+O jogador 1 lança o dado!
+Resultado:  2 
+Mover qual peão com o dado 2? (2) (3) 
+2
+58 1 0 9 
+8 18 58 43 
+9 29 0 0 
+58 37 0 58 
+Fim da jogada!
+
+--- Jogada 198---
+O jogador 2 lança o dado!
+Resultado:  3 
+Mover qual peão com o dado 3? (1) (2) (3) (4) 
+4
+58 1 0 9 
+8 18 58 43 
+9 29 0 0 
+58 40 0 58 
+Fim da jogada!
+
+--- Jogada 199---
+O jogador 3 lança o dado!
+Resultado:  6 
+Resultado:  4 
+Mover qual peão com o dado 6? (1) (3) (4) 
+2
+1
+58 1 1 9 
+8 18 58 43 
+9 29 0 0 
+58 40 0 58 
+Mover qual peão com o dado 4? (1) 
+1
+58 1 5 9 
+8 18 58 43 
+9 29 0 0 
+58 40 0 58 
+Fim da jogada!
+
+--- Jogada 200---
+O jogador 4 lança o dado!
+Resultado:  3 
+Mover qual peão com o dado 3? (1) (2) 
+2
+58 1 5 9 
+8 18 58 46 
+9 29 0 0 
+58 40 0 58 
+Fim da jogada!
+
+--- Jogada 201---
+O jogador 1 lança o dado!
+Resultado:  3 
+Mover qual peão com o dado 3? (2) (3) 
+2
+58 1 5 9 
+11 18 58 46 
+9 29 0 0 
+58 40 0 58 
+Fim da jogada!
+
+--- Jogada 202---
+O jogador 2 lança o dado!
+Resultado:  2 
+Mover qual peão com o dado 2? (1) (2) (3) (4) 
+2
+58 1 5 9 
+11 20 58 46 
+9 29 0 0 
+58 40 0 58 
+Fim da jogada!
+
+--- Jogada 203---
+O jogador 3 lança o dado!
+Resultado:  1 
+Mover qual peão com o dado 1? (1) 
+1
+58 1 6 9 
+11 20 58 46 
+9 29 0 0 
+58 40 0 58 
+Fim da jogada!
+
+--- Jogada 204---
+O jogador 4 lança o dado!
+Resultado:  3 
+Mover qual peão com o dado 3? (1) (2) 
+2
+58 1 6 9 
+11 20 58 49 
+9 29 0 0 
+58 40 0 58 
+Fim da jogada!
+
+--- Jogada 205---
+O jogador 1 lança o dado!
+Resultado:  5 
+Mover qual peão com o dado 5? (2) (3) 
+2
+58 1 6 9 
+16 20 58 49 
+9 29 0 0 
+58 40 0 58 
+Fim da jogada!
+
+--- Jogada 206---
+O jogador 2 lança o dado!
+Resultado:  3 
+Mover qual peão com o dado 3? (1) (2) (3) (4) 
+1
+58 4 6 9 
+16 20 58 49 
+9 29 0 0 
+58 40 0 58 
+Fim da jogada!
+
+--- Jogada 207---
+O jogador 3 lança o dado!
+Resultado:  4 
+Mover qual peão com o dado 4? (1) 
+1
+58 4 10 9 
+16 20 58 49 
+9 29 0 0 
+58 40 0 58 
+Fim da jogada!
+
+--- Jogada 208---
+O jogador 4 lança o dado!
+Resultado:  5 
+Mover qual peão com o dado 5? (1) (2) 
+2
+58 4 10 9 
+16 20 58 54 
+9 29 0 0 
+58 40 0 58 
+Fim da jogada!
+
+--- Jogada 209---
+O jogador 1 lança o dado!
+Resultado:  5 
+Mover qual peão com o dado 5? (2) (3) 
+2
+58 4 10 9 
+21 20 58 54 
+9 29 0 0 
+58 40 0 58 
+Fim da jogada!
+
+--- Jogada 210---
+O jogador 2 lança o dado!
+Resultado:  1 
+Mover qual peão com o dado 1? (1) (2) (3) (4) 
+2
+58 4 10 9 
+21 21 58 54 
+9 29 0 0 
+58 40 0 58 
+Fim da jogada!
+
+--- Jogada 211---
+O jogador 3 lança o dado!
+Resultado:  5 
+Mover qual peão com o dado 5? (1) 
+1
+58 4 15 9 
+21 21 58 54 
+9 29 0 0 
+58 40 0 58 
+Fim da jogada!
+
+--- Jogada 212---
+O jogador 4 lança o dado!
+Resultado:  1 
+Mover qual peão com o dado 1? (1) (2) 
+2
+58 4 15 9 
+21 21 58 55 
+9 29 0 0 
+58 40 0 58 
+Fim da jogada!
+
+--- Jogada 213---
+O jogador 1 lança o dado!
+Resultado:  3 
+Mover qual peão com o dado 3? (2) (3) 
+2
+58 4 15 9 
+24 21 58 55 
+9 29 0 0 
+58 40 0 58 
+Fim da jogada!
+
+--- Jogada 214---
+O jogador 2 lança o dado!
+Resultado:  3 
+Mover qual peão com o dado 3? (1) (2) (3) (4) 
+2
+58 4 15 9 
+24 24 58 55 
+9 29 0 0 
+58 40 0 58 
+Fim da jogada!
+
+--- Jogada 215---
+O jogador 3 lança o dado!
+Resultado:  6 
+Resultado:  6 
+Resultado:  5 
+Mover qual peão com o dado 6? (1) (3) (4) 
+3
+58 4 15 9 
+24 24 58 55 
+9 29 1 0 
+58 40 0 58 
+Mover qual peão com o dado 6? (1) (3) (4) 
+4
+58 4 15 9 
+24 24 58 55 
+9 29 1 0 
+58 40 1 58 
+Mover qual peão com o dado 5? (1) (3) (4) 
+4
+58 4 15 9 
+24 24 58 55 
+9 29 1 0 
+58 40 6 58 
+Fim da jogada!
+
+--- Jogada 216---
+O jogador 4 lança o dado!
+Resultado:  1 
+Mover qual peão com o dado 1? (1) (2) 
+2
+58 4 15 9 
+24 24 58 56 
+9 29 1 0 
+58 40 6 58 
+Fim da jogada!
+
+--- Jogada 217---
+O jogador 1 lança o dado!
+Resultado:  2 
+Mover qual peão com o dado 2? (2) (3) 
+2
+58 4 15 9 
+26 24 58 56 
+9 29 1 0 
+58 40 6 58 
+Fim da jogada!
+
+--- Jogada 218---
+O jogador 2 lança o dado!
+Resultado:  2 
+Mover qual peão com o dado 2? (1) (2) (3) (4) 
+2
+58 4 15 9 
+26 26 58 56 
+9 29 1 0 
+58 40 6 58 
+Fim da jogada!
+
+--- Jogada 219---
+O jogador 3 lança o dado!
+Resultado:  3 
+Mover qual peão com o dado 3? (1) (3) (4) 
+3
+58 4 15 9 
+26 26 58 56 
+9 29 4 0 
+58 40 6 58 
+Fim da jogada!
+
+--- Jogada 220---
+O jogador 4 lança o dado!
+Resultado:  4 
+Mover qual peão com o dado 4? (1) 
+1
+58 4 15 13 
+26 26 58 56 
+9 29 4 0 
+58 40 6 58 
+Comeu o peão 2 do jogador 2!
+O jogador 4 ganha outro dado!
+Resultado:  5 
+Mover qual peão com o dado 5? (1) 
+1
+58 4 15 18 
+26 0 58 56 
+9 29 4 0 
+58 40 6 58 
+Fim da jogada!
+
+--- Jogada 221---
+O jogador 1 lança o dado!
+Resultado:  6 
+Resultado:  1 
+Mover qual peão com o dado 6? (2) (3) 
+2
+58 4 15 18 
+32 0 58 56 
+9 29 4 0 
+58 40 6 58 
+Mover qual peão com o dado 1? (2) (3) 
+2
+58 4 15 18 
+33 0 58 56 
+9 29 4 0 
+58 40 6 58 
+Fim da jogada!
+
+--- Jogada 222---
+O jogador 2 lança o dado!
+Resultado:  3 
+Mover qual peão com o dado 3? (1) (3) (4) 
+2
+3
+58 4 15 18 
+33 0 58 56 
+9 32 4 0 
+58 40 6 58 
+Fim da jogada!
+
+--- Jogada 223---
+O jogador 3 lança o dado!
+Resultado:  1 
+Mover qual peão com o dado 1? (1) (3) (4) 
+3
+58 4 15 18 
+33 0 58 56 
+9 32 5 0 
+58 40 6 58 
+Fim da jogada!
+
+--- Jogada 224---
+O jogador 4 lança o dado!
+Resultado:  1 
+Mover qual peão com o dado 1? (1) (2) 
+2
+58 4 15 18 
+33 0 58 57 
+9 32 5 0 
+58 40 6 58 
+O peão 2 chegou ao final!
+O jogador 4 ganha outro dado!
+Resultado:  3 
+Mover qual peão com o dado 3? (1) 
+1
+58 4 15 21 
+33 0 58 58 
+9 32 5 0 
+58 40 6 58 
+Fim da jogada!
+
+--- Jogada 225---
+O jogador 1 lança o dado!
+Resultado:  2 
+Mover qual peão com o dado 2? (2) (3) 
+2
+58 4 15 21 
+35 0 58 58 
+9 32 5 0 
+58 40 6 58 
+Fim da jogada!
+
+--- Jogada 226---
+O jogador 2 lança o dado!
+Resultado:  4 
+Mover qual peão com o dado 4? (1) (3) (4) 
+1
+58 8 15 21 
+35 0 58 58 
+9 32 5 0 
+58 40 6 58 
+Fim da jogada!
+
+--- Jogada 227---
+O jogador 3 lança o dado!
+Resultado:  5 
+Mover qual peão com o dado 5? (1) (3) (4) 
+3
+58 8 15 21 
+35 0 58 58 
+9 32 10 0 
+58 40 6 58 
+Fim da jogada!
+
+--- Jogada 228---
+O jogador 4 lança o dado!
+Resultado:  6 
+Resultado:  3 
+Mover qual peão com o dado 6? (1) (3) 
+1
+58 8 15 27 
+35 0 58 58 
+9 32 10 0 
+58 40 6 58 
+Mover qual peão com o dado 3? (1) 
+3
+1
+58 8 15 30 
+35 0 58 58 
+9 32 10 0 
+58 40 6 58 
+Fim da jogada!
+
+--- Jogada 229---
+O jogador 1 lança o dado!
+Resultado:  5 
+Mover qual peão com o dado 5? (2) (3) 
+2
+58 8 15 30 
+40 0 58 58 
+9 32 10 0 
+58 40 6 58 
+Fim da jogada!
+
+--- Jogada 230---
+O jogador 2 lança o dado!
+Resultado:  4 
+Mover qual peão com o dado 4? (1) (3) (4) 
+3
+58 8 15 30 
+40 0 58 58 
+9 36 10 0 
+58 40 6 58 
+Fim da jogada!
+
+--- Jogada 231---
+O jogador 3 lança o dado!
+Resultado:  1 
+Mover qual peão com o dado 1? (1) (3) (4) 
+3
+58 8 15 30 
+40 0 58 58 
+9 36 11 0 
+58 40 6 58 
+Fim da jogada!
+
+--- Jogada 232---
+O jogador 4 lança o dado!
+Resultado:  4 
+Mover qual peão com o dado 4? (1) 
+1
+58 8 15 34 
+40 0 58 58 
+9 36 11 0 
+58 40 6 58 
+Fim da jogada!
+
+--- Jogada 233---
+O jogador 1 lança o dado!
+Resultado:  2 
+Mover qual peão com o dado 2? (2) (3) 
+3
+58 8 15 34 
+40 0 58 58 
+11 36 11 0 
+58 40 6 58 
+Fim da jogada!
+
+--- Jogada 234---
+O jogador 2 lança o dado!
+Resultado:  1 
+Mover qual peão com o dado 1? (1) (3) (4) 
+1
+58 9 15 34 
+40 0 58 58 
+11 36 11 0 
+58 40 6 58 
+Fim da jogada!
+
+--- Jogada 235---
+O jogador 3 lança o dado!
+Resultado:  5 
+Mover qual peão com o dado 5? (1) (3) (4) 
+2
+Digite o numero do peão
+3
+58 9 15 34 
+40 0 58 58 
+11 36 16 0 
+58 40 6 58 
+Fim da jogada!
+
+--- Jogada 236---
+O jogador 4 lança o dado!
+Resultado:  1 
+Mover qual peão com o dado 1? (1) 
+1
+58 9 15 35 
+40 0 58 58 
+11 36 16 0 
+58 40 6 58 
+Fim da jogada!
+
+--- Jogada 237---
+O jogador 1 lança o dado!
+Resultado:  6 
+Resultado:  1 
+Mover qual peão com o dado 6? (2) (3) 
+3
+58 9 15 35 
+40 0 58 58 
+17 36 16 0 
+58 40 6 58 
+Mover qual peão com o dado 1? (2) (3) 
+3
+58 9 15 35 
+40 0 58 58 
+18 36 16 0 
+58 40 6 58 
+Fim da jogada!
+
+--- Jogada 238---
+O jogador 2 lança o dado!
+Resultado:  6 
+Resultado:  3 
+Mover qual peão com o dado 6? (1) (2) (3) (4) 
+1
+58 15 15 35 
+40 0 58 58 
+18 36 16 0 
+58 40 6 58 
+Mover qual peão com o dado 3? (1) (3) (4) 
+1
+58 18 15 35 
+40 0 58 58 
+18 36 16 0 
+58 40 6 58 
+Fim da jogada!
+
+--- Jogada 239---
+O jogador 3 lança o dado!
+Resultado:  1 
+Mover qual peão com o dado 1? (1) (3) (4) 
+2
+3
+58 18 15 35 
+40 0 58 58 
+18 36 17 0 
+58 40 6 58 
+Fim da jogada!
+
+--- Jogada 240---
+O jogador 4 lança o dado!
+Resultado:  6 
+Resultado:  3 
+Mover qual peão com o dado 6? (1) (3) 
+1
+58 18 15 41 
+40 0 58 58 
+18 36 17 0 
+58 40 6 58 
+Comeu o peão 1 do jogador 3!
+Mover qual peão com o dado 3? (1) 
+1
+58 18 0 44 
+40 0 58 58 
+18 36 17 0 
+58 40 6 58 
+O jogador 4 ganha outro dado!
+Resultado:  2 
+Mover qual peão com o dado 2? (1) 
+1
+58 18 0 46 
+40 0 58 58 
+18 36 17 0 
+58 40 6 58 
+Fim da jogada!
+
+--- Jogada 241---
+O jogador 1 lança o dado!
+Resultado:  2 
+Mover qual peão com o dado 2? (2) (3) 
+2
+58 18 0 46 
+42 0 58 58 
+18 36 17 0 
+58 40 6 58 
+Fim da jogada!
+
+--- Jogada 242---
+O jogador 2 lança o dado!
+Resultado:  6 
+Resultado:  6 
+Resultado:  1 
+Mover qual peão com o dado 6? (1) (2) (3) (4) 
+2
+58 18 0 46 
+42 1 58 58 
+18 36 17 0 
+58 40 6 58 
+Mover qual peão com o dado 6? (1) (2) (3) (4) 
+4
+58 18 0 46 
+42 1 58 58 
+18 36 17 0 
+58 46 6 58 
+Mover qual peão com o dado 1? (1) (2) (3) (4) 
+4
+58 18 0 46 
+42 1 58 58 
+18 36 17 0 
+58 47 6 58 
+Fim da jogada!
+
+--- Jogada 243---
+O jogador 3 lança o dado!
+Resultado:  1 
+Mover qual peão com o dado 1? (3) (4) 
+3
+58 18 0 46 
+42 1 58 58 
+18 36 18 0 
+58 47 6 58 
+Fim da jogada!
+
+--- Jogada 244---
+O jogador 4 lança o dado!
+Resultado:  3 
+Mover qual peão com o dado 3? (1) 
+1
+58 18 0 49 
+42 1 58 58 
+18 36 18 0 
+58 47 6 58 
+Fim da jogada!
+
+--- Jogada 245---
+O jogador 1 lança o dado!
+Resultado:  3 
+Mover qual peão com o dado 3? (2) (3) 
+2
+58 18 0 49 
+45 1 58 58 
+18 36 18 0 
+58 47 6 58 
+Fim da jogada!
+
+--- Jogada 246---
+O jogador 2 lança o dado!
+Resultado:  5 
+Mover qual peão com o dado 5? (1) (2) (3) (4) 
+1
+58 23 0 49 
+45 1 58 58 
+18 36 18 0 
+58 47 6 58 
+Fim da jogada!
+
+--- Jogada 247---
+O jogador 3 lança o dado!
+Resultado:  1 
+Mover qual peão com o dado 1? (3) (4) 
+3
+58 23 0 49 
+45 1 58 58 
+18 36 19 0 
+58 47 6 58 
+Fim da jogada!
+
+--- Jogada 248---
+O jogador 4 lança o dado!
+Resultado:  3 
+Mover qual peão com o dado 3? (1) 
+1
+58 23 0 52 
+45 1 58 58 
+18 36 19 0 
+58 47 6 58 
+Fim da jogada!
+
+--- Jogada 249---
+O jogador 1 lança o dado!
+Resultado:  6 
+Resultado:  4 
+Mover qual peão com o dado 6? (2) (3) 
+2
+58 23 0 52 
+51 1 58 58 
+18 36 19 0 
+58 47 6 58 
+Mover qual peão com o dado 4? (2) (3) 
+2
+58 23 0 52 
+55 1 58 58 
+18 36 19 0 
+58 47 6 58 
+Fim da jogada!
+
+--- Jogada 250---
+O jogador 2 lança o dado!
+Resultado:  4 
+Mover qual peão com o dado 4? (1) (2) (3) (4) 
+1
+58 27 0 52 
+55 1 58 58 
+18 36 19 0 
+58 47 6 58 
+Fim da jogada!
+
+--- Jogada 251---
+O jogador 3 lança o dado!
+Resultado:  3 
+Mover qual peão com o dado 3? (3) (4) 
+3
+58 27 0 52 
+55 1 58 58 
+18 36 22 0 
+58 47 6 58 
+Fim da jogada!
+
+--- Jogada 252---
+O jogador 4 lança o dado!
+Resultado:  4 
+Mover qual peão com o dado 4? (1) 
+1
+58 27 0 56 
+55 1 58 58 
+18 36 22 0 
+58 47 6 58 
+Fim da jogada!
+
+--- Jogada 253---
+O jogador 1 lança o dado!
+Resultado:  3 
+Mover qual peão com o dado 3? (3) 
+3
+58 27 0 56 
+55 1 58 58 
+21 36 22 0 
+58 47 6 58 
+Comeu o peão 4 do jogador 2!
+O jogador 1 ganha outro dado!
+Resultado:  2 
+Mover qual peão com o dado 2? (2) (3) 
+2
+58 27 0 56 
+57 1 58 58 
+21 36 22 0 
+58 0 6 58 
+O peão 2 chegou ao final!
+O jogador 1 ganha outro dado!
+Resultado:  2 
+Mover qual peão com o dado 2? (3) 
+3
+58 27 0 56 
+58 1 58 58 
+23 36 22 0 
+58 0 6 58 
+Fim da jogada!
+
+--- Jogada 254---
+O jogador 2 lança o dado!
+Resultado:  5 
+Mover qual peão com o dado 5? (1) (2) (3) 
+1
+58 32 0 56 
+58 1 58 58 
+23 36 22 0 
+58 0 6 58 
+Fim da jogada!
+
+--- Jogada 255---
+O jogador 3 lança o dado!
+Resultado:  2 
+Mover qual peão com o dado 2? (3) (4) 
+3
+58 32 0 56 
+58 1 58 58 
+23 36 24 0 
+58 0 6 58 
+Fim da jogada!
+
+--- Jogada 256---
+O jogador 4 lança o dado!
+Resultado:  6 
+Resultado:  3 
+Mover qual peão com o dado 6? (3) 
+3
+58 32 0 56 
+58 1 58 58 
+23 36 24 1 
+58 0 6 58 
+Mover qual peão com o dado 3? (3) 
+3
+58 32 0 56 
+58 1 58 58 
+23 36 24 4 
+58 0 6 58 
+Fim da jogada!
+
+--- Jogada 257---
+O jogador 1 lança o dado!
+Resultado:  1 
+Mover qual peão com o dado 1? (3) 
+3
+58 32 0 56 
+58 1 58 58 
+24 36 24 4 
+58 0 6 58 
+Fim da jogada!
+
+--- Jogada 258---
+O jogador 2 lança o dado!
+Resultado:  2 
+Mover qual peão com o dado 2? (1) (2) (3) 
+3
+58 32 0 56 
+58 1 58 58 
+24 38 24 4 
+58 0 6 58 
+Fim da jogada!
+
+--- Jogada 259---
+O jogador 3 lança o dado!
+Resultado:  2 
+Mover qual peão com o dado 2? (3) (4) 
+3
+58 32 0 56 
+58 1 58 58 
+24 38 26 4 
+58 0 6 58 
+Fim da jogada!
+
+--- Jogada 260---
+O jogador 4 lança o dado!
+Resultado:  6 
+Resultado:  1 
+Mover qual peão com o dado 6? (3) 
+3
+58 32 0 56 
+58 1 58 58 
+24 38 26 10 
+58 0 6 58 
+Mover qual peão com o dado 1? (1) (3) 
+3
+58 32 0 56 
+58 1 58 58 
+24 38 26 11 
+58 0 6 58 
+Fim da jogada!
+
+--- Jogada 261---
+O jogador 1 lança o dado!
+Resultado:  6 
+Resultado:  5 
+Mover qual peão com o dado 6? (3) 
+3
+58 32 0 56 
+58 1 58 58 
+30 38 26 11 
+58 0 6 58 
+Mover qual peão com o dado 5? (3) 
+3
+58 32 0 56 
+58 1 58 58 
+35 38 26 11 
+58 0 6 58 
+Fim da jogada!
+
+--- Jogada 262---
+O jogador 2 lança o dado!
+Resultado:  1 
+Mover qual peão com o dado 1? (1) (2) (3) 
+3
+58 32 0 56 
+58 1 58 58 
+35 39 26 11 
+58 0 6 58 
+Fim da jogada!
+
+--- Jogada 263---
+O jogador 3 lança o dado!
+Resultado:  1 
+Mover qual peão com o dado 1? (3) (4) 
+3
+58 32 0 56 
+58 1 58 58 
+35 39 27 11 
+58 0 6 58 
+Fim da jogada!
+
+--- Jogada 264---
+O jogador 4 lança o dado!
+Resultado:  2 
+Mover qual peão com o dado 2? (3) 
+3
+58 32 0 56 
+58 1 58 58 
+35 39 27 13 
+58 0 6 58 
+Fim da jogada!
+
+--- Jogada 265---
+O jogador 1 lança o dado!
+Resultado:  3 
+Mover qual peão com o dado 3? (3) 
+3
+58 32 0 56 
+58 1 58 58 
+38 39 27 13 
+58 0 6 58 
+Fim da jogada!
+
+--- Jogada 266---
+O jogador 2 lança o dado!
+Resultado:  6 
+Resultado:  5 
+Mover qual peão com o dado 6? (1) (2) (3) (4) 
+3
+58 32 0 56 
+58 1 58 58 
+38 45 27 13 
+58 0 6 58 
+Comeu o peão 4 do jogador 3!
+Mover qual peão com o dado 5? (1) (2) (3) 
+3
+58 32 0 56 
+58 1 58 58 
+38 50 27 13 
+58 0 0 58 
+O jogador 2 ganha outro dado!
+Resultado:  3 
+Mover qual peão com o dado 3? (1) (2) (3) 
+3
+58 32 0 56 
+58 1 58 58 
+38 53 27 13 
+58 0 0 58 
+Fim da jogada!
+
+--- Jogada 267---
+O jogador 3 lança o dado!
+Resultado:  6 
+Resultado:  6 
+Resultado:  2 
+Mover qual peão com o dado 6? (1) (3) (4) 
+3
+58 32 0 56 
+58 1 58 58 
+38 53 33 13 
+58 0 0 58 
+Mover qual peão com o dado 6? (1) (3) (4) 
+3
+58 32 0 56 
+58 1 58 58 
+38 53 39 13 
+58 0 0 58 
+Comeu o peão 3 do jogador 4!
+Mover qual peão com o dado 2? (3) 
+3
+58 32 0 56 
+58 1 58 58 
+38 53 41 0 
+58 0 0 58 
+O jogador 3 ganha outro dado!
+Resultado:  2 
+Mover qual peão com o dado 2? (3) 
+3
+58 32 0 56 
+58 1 58 58 
+38 53 43 0 
+58 0 0 58 
+Fim da jogada!
+
+--- Jogada 268---
+O jogador 4 lança o dado!
+Resultado:  5 
+Fim da jogada!
+
+--- Jogada 269---
+O jogador 1 lança o dado!
+Resultado:  1 
+Mover qual peão com o dado 1? (3) 
+3
+58 32 0 56 
+58 1 58 58 
+39 53 43 0 
+58 0 0 58 
+Fim da jogada!
+
+--- Jogada 270---
+O jogador 2 lança o dado!
+Resultado:  4 
+Mover qual peão com o dado 4? (1) (2) (3) 
+3
+58 32 0 56 
+58 1 58 58 
+39 57 43 0 
+58 0 0 58 
+O peão 3 chegou ao final!
+O jogador 2 ganha outro dado!
+Resultado:  3 
+Mover qual peão com o dado 3? (1) (2) 
+3
+2
+58 32 0 56 
+58 4 58 58 
+39 58 43 0 
+58 0 0 58 
+Fim da jogada!
+
+--- Jogada 271---
+O jogador 3 lança o dado!
+Resultado:  4 
+Mover qual peão com o dado 4? (3) 
+3
+58 32 0 56 
+58 4 58 58 
+39 58 47 0 
+58 0 0 58 
+Fim da jogada!
+
+--- Jogada 272---
+O jogador 4 lança o dado!
+Resultado:  6 
+Resultado:  4 
+Mover qual peão com o dado 6? (3) 
+3
+58 32 0 56 
+58 4 58 58 
+39 58 47 1 
+58 0 0 58 
+Mover qual peão com o dado 4? (3) 
+Digite o numero do peão
+3
+58 32 0 56 
+58 4 58 58 
+39 58 47 5 
+58 0 0 58 
+Fim da jogada!
+
+--- Jogada 273---
+O jogador 1 lança o dado!
+Resultado:  4 
+Mover qual peão com o dado 4? (3) 
+3
+58 32 0 56 
+58 4 58 58 
+43 58 47 5 
+58 0 0 58 
+Fim da jogada!
+
+--- Jogada 274---
+O jogador 2 lança o dado!
+Resultado:  6 
+Resultado:  2 
+Mover qual peão com o dado 6? (1) (2) (4) 
+2
+58 32 0 56 
+58 10 58 58 
+43 58 47 5 
+58 0 0 58 
+Mover qual peão com o dado 2? (1) (2) 
+2
+58 32 0 56 
+58 12 58 58 
+43 58 47 5 
+58 0 0 58 
+Fim da jogada!
+
+--- Jogada 275---
+O jogador 3 lança o dado!
+Resultado:  3 
+Mover qual peão com o dado 3? (3) 
+3
+58 32 0 56 
+58 12 58 58 
+43 58 50 5 
+58 0 0 58 
+Fim da jogada!
+
+--- Jogada 276---
+O jogador 4 lança o dado!
+Resultado:  6 
+Resultado:  3 
+Mover qual peão com o dado 6? (3) 
+3
+58 32 0 56 
+58 12 58 58 
+43 58 50 11 
+58 0 0 58 
+Mover qual peão com o dado 3? (3) 
+3
+58 32 0 56 
+58 12 58 58 
+43 58 50 14 
+58 0 0 58 
+Fim da jogada!
+
+--- Jogada 277---
+O jogador 1 lança o dado!
+Resultado:  2 
+Mover qual peão com o dado 2? (3) 
+3
+58 32 0 56 
+58 12 58 58 
+45 58 50 14 
+58 0 0 58 
+Fim da jogada!
+
+--- Jogada 278---
+O jogador 2 lança o dado!
+Resultado:  2 
+Mover qual peão com o dado 2? (1) (2) 
+2
+58 32 0 56 
+58 14 58 58 
+45 58 50 14 
+58 0 0 58 
+Fim da jogada!
+
+--- Jogada 279---
+O jogador 3 lança o dado!
+Resultado:  6 
+Resultado:  6 
+Resultado:  1 
+Mover qual peão com o dado 6? (1) (3) (4) 
+1
+58 32 1 56 
+58 14 58 58 
+45 58 50 14 
+58 0 0 58 
+Mover qual peão com o dado 6? (1) (3) (4) 
+4
+58 32 1 56 
+58 14 58 58 
+45 58 50 14 
+58 0 1 58 
+Mover qual peão com o dado 1? (1) (3) (4) 
+3
+58 32 1 56 
+58 14 58 58 
+45 58 51 14 
+58 0 1 58 
+Fim da jogada!
+
+--- Jogada 280---
+O jogador 4 lança o dado!
+Resultado:  6 
+Resultado:  3 
+Mover qual peão com o dado 6? (3) 
+3
+58 32 1 56 
+58 14 58 58 
+45 58 51 20 
+58 0 1 58 
+Mover qual peão com o dado 3? (3) 
+3
+58 32 1 56 
+58 14 58 58 
+45 58 51 23 
+58 0 1 58 
+Fim da jogada!
+
+--- Jogada 281---
+O jogador 1 lança o dado!
+Resultado:  1 
+Mover qual peão com o dado 1? (3) 
+3
+58 32 1 56 
+58 14 58 58 
+46 58 51 23 
+58 0 1 58 
+Fim da jogada!
+
+--- Jogada 282---
+O jogador 2 lança o dado!
+Resultado:  5 
+Mover qual peão com o dado 5? (1) (2) 
+2
+58 32 1 56 
+58 19 58 58 
+46 58 51 23 
+58 0 1 58 
+Fim da jogada!
+
+--- Jogada 283---
+O jogador 3 lança o dado!
+Resultado:  2 
+Mover qual peão com o dado 2? (1) (3) (4) 
+4
+58 32 1 56 
+58 19 58 58 
+46 58 51 23 
+58 0 3 58 
+Fim da jogada!
+
+--- Jogada 284---
+O jogador 4 lança o dado!
+Resultado:  6 
+Resultado:  2 
+Mover qual peão com o dado 6? (3) 
+3
+58 32 1 56 
+58 19 58 58 
+46 58 51 29 
+58 0 3 58 
+Comeu o peão 4 do jogador 3!
+Mover qual peão com o dado 2? (3) 
+Digite o numero do peão
+3
+58 32 1 56 
+58 19 58 58 
+46 58 51 31 
+58 0 0 58 
+O jogador 4 ganha outro dado!
+Resultado:  5 
+Mover qual peão com o dado 5? (3) 
+3
+58 32 1 56 
+58 19 58 58 
+46 58 51 36 
+58 0 0 58 
+Fim da jogada!
+
+--- Jogada 285---
+O jogador 1 lança o dado!
+Resultado:  5 
+Mover qual peão com o dado 5? (3) 
+3
+58 32 1 56 
+58 19 58 58 
+51 58 51 36 
+58 0 0 58 
+Fim da jogada!
+
+--- Jogada 286---
+O jogador 2 lança o dado!
+Resultado:  5 
+Mover qual peão com o dado 5? (1) (2) 
+3
+2
+58 32 1 56 
+58 24 58 58 
+51 58 51 36 
+58 0 0 58 
+Fim da jogada!
+
+--- Jogada 287---
+O jogador 3 lança o dado!
+Resultado:  3 
+Mover qual peão com o dado 3? (1) (3) 
+3
+58 32 1 56 
+58 24 58 58 
+51 58 54 36 
+58 0 0 58 
+Fim da jogada!
+
+--- Jogada 288---
+O jogador 4 lança o dado!
+Resultado:  3 
+Mover qual peão com o dado 3? (3) 
+3
+58 32 1 56 
+58 24 58 58 
+51 58 54 39 
+58 0 0 58 
+Fim da jogada!
+
+--- Jogada 289---
+O jogador 1 lança o dado!
+Resultado:  2 
+Mover qual peão com o dado 2? (3) 
+3
+58 32 1 56 
+58 24 58 58 
+53 58 54 39 
+58 0 0 58 
+Fim da jogada!
+
+--- Jogada 290---
+O jogador 2 lança o dado!
+Resultado:  2 
+Mover qual peão com o dado 2? (1) (2) 
+2
+58 32 1 56 
+58 26 58 58 
+53 58 54 39 
+58 0 0 58 
+Fim da jogada!
+
+--- Jogada 291---
+O jogador 3 lança o dado!
+Resultado:  2 
+Mover qual peão com o dado 2? (1) (3) 
+3
+58 32 1 56 
+58 26 58 58 
+53 58 56 39 
+58 0 0 58 
+Fim da jogada!
+
+--- Jogada 292---
+O jogador 4 lança o dado!
+Resultado:  5 
+Mover qual peão com o dado 5? (3) 
+3
+58 32 1 56 
+58 26 58 58 
+53 58 56 44 
+58 0 0 58 
+Fim da jogada!
+
+--- Jogada 293---
+O jogador 1 lança o dado!
+Resultado:  5 
+Fim da jogada!
+
+--- Jogada 294---
+O jogador 2 lança o dado!
+Resultado:  4 
+Mover qual peão com o dado 4? (1) (2) 
+2
+58 32 1 56 
+58 30 58 58 
+53 58 56 44 
+58 0 0 58 
+Fim da jogada!
+
+--- Jogada 295---
+O jogador 3 lança o dado!
+Resultado:  2 
+Mover qual peão com o dado 2? (1) 
+1
+58 32 3 56 
+58 30 58 58 
+53 58 56 44 
+58 0 0 58 
+Fim da jogada!
+
+--- Jogada 296---
+O jogador 4 lança o dado!
+Resultado:  4 
+Mover qual peão com o dado 4? (3) 
+3
+58 32 3 56 
+58 30 58 58 
+53 58 56 48 
+58 0 0 58 
+Fim da jogada!
+
+--- Jogada 297---
+O jogador 1 lança o dado!
+Resultado:  5 
+Fim da jogada!
+
+--- Jogada 298---
+O jogador 2 lança o dado!
+Resultado:  2 
+Mover qual peão com o dado 2? (1) (2) 
+2
+58 32 3 56 
+58 32 58 58 
+53 58 56 48 
+58 0 0 58 
+Fim da jogada!
+
+--- Jogada 299---
+O jogador 3 lança o dado!
+Resultado:  4 
+Mover qual peão com o dado 4? (1) 
+1
+58 32 7 56 
+58 32 58 58 
+53 58 56 48 
+58 0 0 58 
+Fim da jogada!
+
+--- Jogada 300---
+O jogador 4 lança o dado!
+Resultado:  3 
+Mover qual peão com o dado 3? (3) 
+3
+58 32 7 56 
+58 32 58 58 
+53 58 56 51 
+58 0 0 58 
+Fim da jogada!
+
+--- Jogada 301---
+O jogador 1 lança o dado!
+Resultado:  5 
+Fim da jogada!
+
+--- Jogada 302---
+O jogador 2 lança o dado!
+Resultado:  5 
+Mover qual peão com o dado 5? (1) (2) 
+2
+58 32 7 56 
+58 37 58 58 
+53 58 56 51 
+58 0 0 58 
+Fim da jogada!
+
+--- Jogada 303---
+O jogador 3 lança o dado!
+Resultado:  1 
+Mover qual peão com o dado 1? (1) (3) 
+2
+3
+58 32 7 56 
+58 37 58 58 
+53 58 57 51 
+58 0 0 58 
+O peão 3 chegou ao final!
+O jogador 3 ganha outro dado!
+Resultado:  4 
+Mover qual peão com o dado 4? (1) 
+Digite o numero do peão
+1
+58 32 11 56 
+58 37 58 58 
+53 58 58 51 
+58 0 0 58 
+Fim da jogada!
+
+--- Jogada 304---
+O jogador 4 lança o dado!
+Resultado:  2 
+Mover qual peão com o dado 2? (3) 
+3
+58 32 11 56 
+58 37 58 58 
+53 58 58 53 
+58 0 0 58 
+Fim da jogada!
+
+--- Jogada 305---
+O jogador 1 lança o dado!
+Resultado:  3 
+Mover qual peão com o dado 3? (3) 
+3
+58 32 11 56 
+58 37 58 58 
+56 58 58 53 
+58 0 0 58 
+Fim da jogada!
+
+--- Jogada 306---
+O jogador 2 lança o dado!
+Resultado:  5 
+Mover qual peão com o dado 5? (1) (2) 
+2
+58 32 11 56 
+58 42 58 58 
+56 58 58 53 
+58 0 0 58 
+Fim da jogada!
+
+--- Jogada 307---
+O jogador 3 lança o dado!
+Resultado:  4 
+Mover qual peão com o dado 4? (1) 
+1
+58 32 15 56 
+58 42 58 58 
+56 58 58 53 
+58 0 0 58 
+Fim da jogada!
+
+--- Jogada 308---
+O jogador 4 lança o dado!
+Resultado:  2 
+Mover qual peão com o dado 2? (3) 
+3
+58 32 15 56 
+58 42 58 58 
+56 58 58 55 
+58 0 0 58 
+Fim da jogada!
+
+--- Jogada 309---
+O jogador 1 lança o dado!
+Resultado:  4 
+Fim da jogada!
+
+--- Jogada 310---
+O jogador 2 lança o dado!
+Resultado:  5 
+Mover qual peão com o dado 5? (1) (2) 
+2
+58 32 15 56 
+58 47 58 58 
+56 58 58 55 
+58 0 0 58 
+Fim da jogada!
+
+--- Jogada 311---
+O jogador 3 lança o dado!
+Resultado:  6 
+Resultado:  3 
+Mover qual peão com o dado 6? (1) (4) 
+4
+58 32 15 56 
+58 47 58 58 
+56 58 58 55 
+58 0 1 58 
+Mover qual peão com o dado 3? (1) (4) 
+1
+58 32 18 56 
+58 47 58 58 
+56 58 58 55 
+58 0 1 58 
+Fim da jogada!
+
+--- Jogada 312---
+O jogador 4 lança o dado!
+Resultado:  5 
+Fim da jogada!
+
+--- Jogada 313---
+O jogador 1 lança o dado!
+Resultado:  6 
+Resultado:  1 
+Mover qual peão com o dado 1? (3) 
+3
+58 32 18 56 
+58 47 58 58 
+57 58 58 55 
+58 0 1 58 
+O peão 3 chegou ao final!
+Fim de jogo!!
+
+O vencedor é... Jogador 1! Bom jogo!
