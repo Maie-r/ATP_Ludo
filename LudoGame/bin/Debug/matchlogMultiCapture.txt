@@ -1,0 +1,63 @@
+// EXEMPLO 1 (todos os peões de um jogador no mesmo quadrado):
+--- Jogada 1---
+O jogador 1 lança o dado!
+Resultado:  1 
+Mover qual peão com o dado 1? (1) (2) (3) (4) 
+1
+28 2 
+26 2 
+25 2 
+24 2 
+Comeu o peão 1 do jogador 2!
+Comeu o peão 2 do jogador 2!
+Comeu o peão 3 do jogador 2!
+Comeu o peão 4 do jogador 2!
+O jogador 1 ganha outro dado!
+Resultado:  6 
+Resultado:  5 
+Mover qual peão com o dado 6? (1) (2) (3) (4) 
+2
+28 0 
+32 0 
+25 0 
+24 0 
+Mover qual peão com o dado 5? (1) (2) (3) (4) 
+3
+28 0 
+32 0 
+30 0 
+24 0 
+Fim da jogada!
+
+// EXEMPLO 2 (caso impossível: todos os peões adversários no mesmo quadrado):
+--- Jogada 1---
+O jogador 1 lança o dado!
+Resultado:  3 
+Mover qual peão com o dado 3? (1) (2) (3) (4) 
+3
+27 2 15 41 
+26 2 15 41 
+28 2 15 41 
+24 2 15 41 
+Comeu o peão 1 do jogador 2!
+Comeu o peão 2 do jogador 2!
+Comeu o peão 3 do jogador 2!
+Comeu o peão 4 do jogador 2!
+Comeu o peão 1 do jogador 3!
+Comeu o peão 2 do jogador 3!
+Comeu o peão 3 do jogador 3!
+Comeu o peão 4 do jogador 3!
+Comeu o peão 1 do jogador 4!
+Comeu o peão 2 do jogador 4!
+Comeu o peão 3 do jogador 4!
+Comeu o peão 4 do jogador 4!
+O jogador 1 ganha outro dado!
+Resultado:  1 
+Mover qual peão com o dado 1? (1) (2) (3) (4) 
+1
+28 0 0 0 
+26 0 0 0 
+28 0 0 0 
+24 0 0 0 
+Fim da jogada!
+
